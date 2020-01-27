@@ -1,0 +1,110 @@
+{
+  "keys": {
+    "clusters": {
+      "0": [
+        "% Tax",
+        "(if required)",
+        "4 25 Equipment ID:",
+        "Additional",
+        "Additional Items",
+        "AmeriGas 80 NORTH MAIN ST",
+        "Amount",
+        "Assigned to:",
+        "CONTRACT:",
+        "CUSTOMER SITE NAME, ADDRESS & PHONE",
+        "Cash",
+        "Check #",
+        "Company id:",
+        "Copper Tubing (ft)",
+        "Credit Card",
+        "Customer's Signature",
+        "Customer:",
+        "Date",
+        "Date",
+        "Date:",
+        "Date:",
+        "Description / Tran Code",
+        "Does Customer Require A Copy of the WORK ORDER?",
+        "Equipment ID:",
+        "Gallons in Tank When Set:",
+        "Grid #:",
+        "Hours:",
+        "JOB DESCRIPTION",
+        "JOB LOCATION (COMMENTS)",
+        "Labor (hrs)",
+        "Manager's Signature",
+        "Meter",
+        "Money Order",
+        "NON BOR",
+        "No",
+        "Notification:",
+        "Obvious Font",
+        "Order Date:",
+        "PAYMENT AMOUNT",
+        "PO#:",
+        "Paid in Advance$ :",
+        "Parts & Fittings",
+        "Payment Terms:",
+        "Percent",
+        "Plant:",
+        "Poly Tubing (ft)",
+        "Price",
+        "Quantity",
+        "Reading",
+        "Scheduled Date/Time 12/02/2015",
+        "Service Performed:",
+        "Service Person's",
+        "Signature",
+        "Size",
+        "Sub Total",
+        "TANK",
+        "Tank",
+        "Tank",
+        "Total",
+        "Total Charges",
+        "Zone:"
+      ]
+    }
+  },
+  "modelInfo": {
+    "createdDateTime": "2020-01-27T16:36:22Z",
+    "lastUpdatedDateTime": "2020-01-27T16:37:01Z",
+    "modelId": "db8da6ac-28ec-4c59-84ab-a63b6b01123e",
+    "status": "ready"
+  },
+  "trainResult": {
+    "errors": [],
+    "trainingDocuments": [
+      {
+        "documentName": "SSO1.pdf",
+        "errors": [],
+        "pages": 1,
+        "status": "succeeded"
+      },
+      {
+        "documentName": "SSO2.pdf",
+        "errors": [],
+        "pages": 1,
+        "status": "succeeded"
+      },
+      {
+        "documentName": "SSO3.pdf",
+        "errors": [],
+        "pages": 1,
+        "status": "succeeded"
+      },
+      {
+        "documentName": "SSO4.pdf",
+        "errors": [],
+        "pages": 1,
+        "status": "succeeded"
+      },
+      {
+        "documentName": "SSO5.pdf",
+        "errors": [],
+        "pages": 1,
+        "status": "succeeded"
+      }
+    ]
+  }
+}

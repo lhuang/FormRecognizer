@@ -1,0 +1,93 @@
+{
+  "modelInfo": {
+    "createdDateTime": "2020-01-27T16:17:26Z",
+    "lastUpdatedDateTime": "2020-01-27T16:17:34Z",
+    "modelId": "81803696-5cde-456d-b2ca-a29d40c10dac",
+    "status": "ready"
+  },
+  "trainResult": {
+    "averageModelAccuracy": 0.662,
+    "errors": [],
+    "fields": [
+      {
+        "accuracy": 0.8,
+        "fieldName": "customerAddress"
+      },
+      {
+        "accuracy": 0.0,
+        "fieldName": "customerName"
+      },
+      {
+        "accuracy": 1.0,
+        "fieldName": "customerPhone"
+      },
+      {
+        "accuracy": 0.0,
+        "fieldName": "customerShipTo"
+      },
+      {
+        "accuracy": 0.8,
+        "fieldName": "customerSoldToNumber"
+      },
+      {
+        "accuracy": 0.8,
+        "fieldName": "customerZone"
+      },
+      {
+        "accuracy": 0.8,
+        "fieldName": "equipmentID"
+      },
+      {
+        "accuracy": 0.0,
+        "fieldName": "handWriting"
+      },
+      {
+        "accuracy": 0.6,
+        "fieldName": "invoiceNumber"
+      },
+      {
+        "accuracy": 1.0,
+        "fieldName": "Notification"
+      },
+      {
+        "accuracy": 0.8,
+        "fieldName": "orderDate"
+      },
+      {
+        "accuracy": 1.0,
+        "fieldName": "plantNumber"
+      },
+      {
+        "accuracy": 1.0,
+        "fieldName": "ScheduledDate"
+      }
+    ],
+    "trainingDocuments": [
+      {
+        "documentName": "SSO1.pdf",
+        "pages": 1,
+        "status": "succeeded"
+      },
+      {
+        "documentName": "SSO2.pdf",
+        "pages": 1,
+        "status": "succeeded"
+      },
+      {
+        "documentName": "SSO3.pdf",
+        "pages": 1,
+        "status": "succeeded"
+      },
+      {
+        "documentName": "SSO4.pdf",
+        "pages": 1,
+        "status": "succeeded"
+      },
+      {
+        "documentName": "SSO5.pdf",
+        "pages": 1,
+        "status": "succeeded"
+      }
+    ]
+  }
+}

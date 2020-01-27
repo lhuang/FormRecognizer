@@ -1,0 +1,6176 @@
+{
+  "analyzeResult": {
+    "documentResults": [],
+    "errors": [],
+    "pageResults": [
+      {
+        "clusterId": 0,
+        "keyValuePairs": [
+          {
+            "confidence": 0.5,
+            "key": {
+              "boundingBox": [
+                0.3681,
+                0.2069,
+                2.5667,
+                0.2069,
+                2.5667,
+                0.3472,
+                0.3681,
+                0.3472
+              ],
+              "elements": [
+                "#/readResults/0/lines/2/words/0",
+                "#/readResults/0/lines/2/words/1",
+                "#/readResults/0/lines/2/words/2",
+                "#/readResults/0/lines/2/words/3",
+                "#/readResults/0/lines/2/words/4"
+              ],
+              "text": "AmeriGas 80 NORTH MAIN ST"
+            },
+            "value": {
+              "boundingBox": null,
+              "elements": null,
+              "text": ""
+            }
+          },
+          {
+            "confidence": 0.7,
+            "key": {
+              "boundingBox": [
+                6.3222,
+                0.6417,
+                6.5806,
+                0.6417,
+                6.5806,
+                0.7472,
+                6.3222,
+                0.7472
+              ],
+              "elements": [
+                "#/readResults/0/lines/7/words/0"
+              ],
+              "text": "PO#:"
+            },
+            "value": {
+              "boundingBox": [
+                7.6222,
+                0.6181,
+                8.1389,
+                0.6181,
+                8.1389,
+                0.8861,
+                7.6222,
+                0.8861
+              ],
+              "elements": [
+                "#/readResults/0/lines/13/words/0",
+                "#/readResults/0/lines/13/words/1"
+              ],
+              "text": "DO !"
+            }
+          },
+          {
+            "confidence": 0.86,
+            "key": {
+              "boundingBox": [
+                0.3542,
+                0.6694,
+                2.0306,
+                0.6694,
+                2.0306,
+                0.7778,
+                0.3542,
+                0.7778
+              ],
+              "elements": [
+                "#/readResults/0/lines/8/words/0",
+                "#/readResults/0/lines/8/words/1",
+                "#/readResults/0/lines/8/words/2"
+              ],
+              "text": "Scheduled Date/Time 12/02/2015"
+            },
+            "value": {
+              "boundingBox": [
+                2.0583,
+                0.6694,
+                2.4889,
+                0.6694,
+                2.4889,
+                0.7778,
+                2.0583,
+                0.7778
+              ],
+              "elements": [
+                "#/readResults/0/lines/8/words/3"
+              ],
+              "text": "08:00:00"
+            }
+          },
+          {
+            "confidence": 0.36,
+            "key": {
+              "boundingBox": [
+                2.6458,
+                0.6694,
+                3.25,
+                0.6694,
+                3.25,
+                0.7778,
+                2.6458,
+                0.7778
+              ],
+              "elements": [
+                "#/readResults/0/lines/9/words/0",
+                "#/readResults/0/lines/9/words/1"
+              ],
+              "text": "order date:"
+            },
+            "value": {
+              "boundingBox": [
+                3.2667,
+                0.6694,
+                3.8125,
+                0.6694,
+                3.8125,
+                0.7778,
+                3.2667,
+                0.7778
+              ],
+              "elements": [
+                "#/readResults/0/lines/10/words/0"
+              ],
+              "text": "12/02/2015"
+            }
+          },
+          {
+            "confidence": 0.36,
+            "key": {
+              "boundingBox": [
+                4.4472,
+                0.6694,
+                5.0347,
+                0.6694,
+                5.0347,
+                0.7778,
+                4.4472,
+                0.7778
+              ],
+              "elements": [
+                "#/readResults/0/lines/11/words/0"
+              ],
+              "text": "notification:"
+            },
+            "value": {
+              "boundingBox": [
+                5.0556,
+                0.6694,
+                5.6597,
+                0.6694,
+                5.6597,
+                0.7778,
+                5.0556,
+                0.7778
+              ],
+              "elements": [
+                "#/readResults/0/lines/12/words/0"
+              ],
+              "text": "3004155959"
+            }
+          },
+          {
+            "confidence": 0.5,
+            "key": {
+              "boundingBox": [
+                4.2389,
+                0.8889,
+                4.7431,
+                0.8889,
+                4.7431,
+                0.9972,
+                4.2389,
+                0.9972
+              ],
+              "elements": [
+                "#/readResults/0/lines/14/words/0",
+                "#/readResults/0/lines/14/words/1"
+              ],
+              "text": "NON BOR"
+            },
+            "value": {
+              "boundingBox": null,
+              "elements": null,
+              "text": ""
+            }
+          },
+          {
+            "confidence": 0.53,
+            "key": {
+              "boundingBox": [
+                1.7986,
+                0.9167,
+                2.7708,
+                0.9167,
+                2.7708,
+                1.025,
+                1.7986,
+                1.025
+              ],
+              "elements": [
+                "#/readResults/0/lines/15/words/0",
+                "#/readResults/0/lines/15/words/1"
+              ],
+              "text": "JOB DESCRIPTION"
+            },
+            "value": {
+              "boundingBox": [
+                0.3542,
+                1.1458,
+                4.7014,
+                1.1458,
+                4.7014,
+                3.0722,
+                0.3542,
+                3.0722
+              ],
+              "elements": [
+                "#/readResults/0/lines/16/words/0",
+                "#/readResults/0/lines/16/words/1",
+                "#/readResults/0/lines/16/words/2",
+                "#/readResults/0/lines/26/words/0",
+                "#/readResults/0/lines/31/words/0",
+                "#/readResults/0/lines/31/words/1",
+                "#/readResults/0/lines/31/words/2",
+                "#/readResults/0/lines/31/words/3",
+                "#/readResults/0/lines/31/words/4",
+                "#/readResults/0/lines/31/words/5",
+                "#/readResults/0/lines/31/words/6",
+                "#/readResults/0/lines/31/words/7",
+                "#/readResults/0/lines/31/words/8",
+                "#/readResults/0/lines/32/words/0",
+                "#/readResults/0/lines/32/words/1"
+              ],
+              "text": "70106 REMOVE TANK--BUCHANAN 32-606-0568 REMOVE TANK--BUCHANAN - FILL FROM LEFT SIDE OF HOUSE MUST DO."
+            }
+          },
+          {
+            "confidence": 0.36,
+            "key": {
+              "boundingBox": [
+                4.2389,
+                1.7181,
+                4.5389,
+                1.7181,
+                4.5389,
+                1.8403,
+                4.2389,
+                1.8403
+              ],
+              "elements": [
+                "#/readResults/0/lines/19/words/0"
+              ],
+              "text": "plant:"
+            },
+            "value": {
+              "boundingBox": [
+                4.5625,
+                1.7181,
+                4.8167,
+                1.7181,
+                4.8167,
+                1.8403,
+                4.5625,
+                1.8403
+              ],
+              "elements": [
+                "#/readResults/0/lines/20/words/0"
+              ],
+              "text": "9390"
+            }
+          },
+          {
+            "confidence": 0.36,
+            "key": {
+              "boundingBox": [
+                6.2194,
+                1.7153,
+                6.7389,
+                1.7153,
+                6.7389,
+                1.8403,
+                6.2194,
+                1.8403
+              ],
+              "elements": [
+                "#/readResults/0/lines/21/words/0"
+              ],
+              "text": "customer:"
+            },
+            "value": {
+              "boundingBox": [
+                6.7639,
+                1.7153,
+                7.2667,
+                1.7153,
+                7.2667,
+                1.8403,
+                6.7639,
+                1.8403
+              ],
+              "elements": [
+                "#/readResults/0/lines/22/words/0"
+              ],
+              "text": "TOL_9390"
+            }
+          },
+          {
+            "confidence": 0.36,
+            "key": {
+              "boundingBox": [
+                4.2472,
+                1.9306,
+                4.8639,
+                1.9306,
+                4.8639,
+                2.0444,
+                4.2472,
+                2.0444
+              ],
+              "elements": [
+                "#/readResults/0/lines/24/words/0",
+                "#/readResults/0/lines/24/words/1"
+              ],
+              "text": "assigned to:"
+            },
+            "value": {
+              "boundingBox": [
+                4.8889,
+                1.9306,
+                6.5,
+                1.9306,
+                6.5,
+                2.0444,
+                4.8889,
+                2.0444
+              ],
+              "elements": [
+                "#/readResults/0/lines/25/words/0",
+                "#/readResults/0/lines/25/words/1"
+              ],
+              "text": "9390_999 BORD_T1_DEFAULT"
+            }
+          },
+          {
+            "confidence": 0.36,
+            "key": {
+              "boundingBox": [
+                5.7389,
+                2.1181,
+                6.0167,
+                2.1181,
+                6.0167,
+                2.225,
+                5.7389,
+                2.225
+              ],
+              "elements": [
+                "#/readResults/0/lines/28/words/0"
+              ],
+              "text": "zone:"
+            },
+            "value": {
+              "boundingBox": [
+                6.0389,
+                2.1181,
+                6.475,
+                2.1181,
+                6.475,
+                2.225,
+                6.0389,
+                2.225
+              ],
+              "elements": [
+                "#/readResults/0/lines/29/words/0"
+              ],
+              "text": "VGEZF3"
+            }
+          },
+          {
+            "confidence": 0.5,
+            "key": {
+              "boundingBox": [
+                3.4,
+                2.3167,
+                4.9611,
+                2.3167,
+                4.9611,
+                2.4514,
+                3.4,
+                2.4514
+              ],
+              "elements": [
+                "#/readResults/0/lines/30/words/0",
+                "#/readResults/0/lines/30/words/1",
+                "#/readResults/0/lines/30/words/2"
+              ],
+              "text": "JOB LOCATION (COMMENTS)"
+            },
+            "value": {
+              "boundingBox": null,
+              "elements": null,
+              "text": ""
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": [
+                0.35,
+                3.6347,
+                1.25,
+                3.6347,
+                1.25,
+                3.7569,
+                0.35,
+                3.7569
+              ],
+              "elements": [
+                "#/readResults/0/lines/33/words/0",
+                "#/readResults/0/lines/33/words/1"
+              ],
+              "text": "Service Performed:"
+            },
+            "value": {
+              "boundingBox": [
+                0.3542,
+                3.8472,
+                2.0556,
+                3.8472,
+                2.0556,
+                3.9889,
+                0.3542,
+                3.9889
+              ],
+              "elements": [
+                "#/readResults/0/lines/40/words/0",
+                "#/readResults/0/lines/40/words/1",
+                "#/readResults/0/lines/40/words/2",
+                "#/readResults/0/lines/40/words/3",
+                "#/readResults/0/lines/40/words/4",
+                "#/readResults/0/lines/40/words/5"
+              ],
+              "text": "0010 Remove Above Tank - Small"
+            }
+          },
+          {
+            "confidence": 0.5,
+            "key": {
+              "boundingBox": [
+                2.3333,
+                3.6431,
+                2.6222,
+                3.6431,
+                2.6222,
+                3.7569,
+                2.3333,
+                3.7569
+              ],
+              "elements": [
+                "#/readResults/0/lines/34/words/0"
+              ],
+              "text": "Date:"
+            },
+            "value": {
+              "boundingBox": null,
+              "elements": null,
+              "text": ""
+            }
+          },
+          {
+            "confidence": 0.7,
+            "key": {
+              "boundingBox": [
+                3.3222,
+                3.6208,
+                3.6667,
+                3.6208,
+                3.6667,
+                3.7569,
+                3.3222,
+                3.7569
+              ],
+              "elements": [
+                "#/readResults/0/lines/35/words/0"
+              ],
+              "text": "Hours:"
+            },
+            "value": {
+              "boundingBox": [
+                3.1083,
+                4.3819,
+                4.4889,
+                4.3819,
+                4.4889,
+                4.9278,
+                3.1083,
+                4.9278
+              ],
+              "elements": [
+                "#/readResults/0/lines/42/words/0",
+                "#/readResults/0/lines/42/words/1",
+                "#/readResults/0/lines/42/words/2"
+              ],
+              "text": "20 / 0"
+            }
+          },
+          {
+            "confidence": 0.36,
+            "key": {
+              "boundingBox": [
+                3.7111,
+                3.5806,
+                4.9972,
+                3.5806,
+                4.9972,
+                3.7569,
+                3.7111,
+                3.7569
+              ],
+              "elements": [
+                "#/readResults/0/lines/36/words/0",
+                "#/readResults/0/lines/36/words/1",
+                "#/readResults/0/lines/36/words/2",
+                "#/readResults/0/lines/36/words/3"
+              ],
+              "text": "4 25 equipment id:"
+            },
+            "value": {
+              "boundingBox": [
+                5.0417,
+                3.5806,
+                5.6361,
+                3.5806,
+                5.6361,
+                3.7569,
+                5.0417,
+                3.7569
+              ],
+              "elements": [
+                "#/readResults/0/lines/37/words/0"
+              ],
+              "text": "5000773665"
+            }
+          },
+          {
+            "confidence": 0.36,
+            "key": {
+              "boundingBox": [
+                6.2292,
+                3.6431,
+                6.8806,
+                3.6431,
+                6.8806,
+                3.7569,
+                6.2292,
+                3.7569
+              ],
+              "elements": [
+                "#/readResults/0/lines/38/words/0",
+                "#/readResults/0/lines/38/words/1"
+              ],
+              "text": "company id:"
+            },
+            "value": {
+              "boundingBox": [
+                6.8806,
+                3.6431,
+                7.3639,
+                3.6431,
+                7.3639,
+                3.7569,
+                6.8806,
+                3.7569
+              ],
+              "elements": [
+                "#/readResults/0/lines/39/words/0"
+              ],
+              "text": "299185831"
+            }
+          },
+          {
+            "confidence": 0.5,
+            "key": {
+              "boundingBox": [
+                4.65,
+                3.9556,
+                5.5528,
+                3.9556,
+                5.5528,
+                4.2361,
+                4.65,
+                4.2361
+              ],
+              "elements": [
+                "#/readResults/0/lines/41/words/0"
+              ],
+              "text": "TANK"
+            },
+            "value": {
+              "boundingBox": null,
+              "elements": null,
+              "text": ""
+            }
+          },
+          {
+            "confidence": 0.36,
+            "key": {
+              "boundingBox": [
+                0.3472,
+                5.1903,
+                0.9972,
+                5.1903,
+                0.9972,
+                5.325,
+                0.3472,
+                5.325
+              ],
+              "elements": [
+                "#/readResults/0/lines/43/words/0"
+              ],
+              "text": "contract:"
+            },
+            "value": {
+              "boundingBox": [
+                1.0208,
+                5.1903,
+                3.4167,
+                5.1903,
+                3.4167,
+                5.325,
+                1.0208,
+                5.325
+              ],
+              "elements": [
+                "#/readResults/0/lines/44/words/0",
+                "#/readResults/0/lines/44/words/1",
+                "#/readResults/0/lines/44/words/2",
+                "#/readResults/0/lines/44/words/3",
+                "#/readResults/0/lines/44/words/4",
+                "#/readResults/0/lines/44/words/5"
+              ],
+              "text": "NO CONTRACT EXISTS Tank Location Code"
+            }
+          },
+          {
+            "confidence": 0.5,
+            "key": {
+              "boundingBox": [
+                2.3361,
+                5.6264,
+                2.5667,
+                5.6264,
+                2.5667,
+                5.7417,
+                2.3361,
+                5.7417
+              ],
+              "elements": [
+                "#/readResults/0/lines/55/words/0"
+              ],
+              "text": "Size"
+            },
+            "value": {
+              "boundingBox": null,
+              "elements": null,
+              "text": ""
+            }
+          },
+          {
+            "confidence": 0.5,
+            "key": {
+              "boundingBox": [
+                4.8028,
+                5.6083,
+                5.2056,
+                5.6083,
+                5.2056,
+                5.7417,
+                4.8028,
+                5.7417
+              ],
+              "elements": [
+                "#/readResults/0/lines/56/words/0"
+              ],
+              "text": "Percent"
+            },
+            "value": {
+              "boundingBox": null,
+              "elements": null,
+              "text": ""
+            }
+          },
+          {
+            "confidence": 0.5,
+            "key": {
+              "boundingBox": [
+                0.4139,
+                5.8181,
+                0.85,
+                5.8181,
+                0.85,
+                5.9361,
+                0.4139,
+                5.9361
+              ],
+              "elements": [
+                "#/readResults/0/lines/59/words/0"
+              ],
+              "text": "Quantity"
+            },
+            "value": {
+              "boundingBox": null,
+              "elements": null,
+              "text": ""
+            }
+          },
+          {
+            "confidence": 0.5,
+            "key": {
+              "boundingBox": [
+                3.1111,
+                5.8167,
+                4.3264,
+                5.8167,
+                4.3264,
+                5.9361,
+                3.1111,
+                5.9361
+              ],
+              "elements": [
+                "#/readResults/0/lines/60/words/0",
+                "#/readResults/0/lines/60/words/1",
+                "#/readResults/0/lines/60/words/2",
+                "#/readResults/0/lines/60/words/3"
+              ],
+              "text": "Description / Tran Code"
+            },
+            "value": {
+              "boundingBox": null,
+              "elements": null,
+              "text": ""
+            }
+          },
+          {
+            "confidence": 0.5,
+            "key": {
+              "boundingBox": [
+                6.7083,
+                5.8111,
+                6.9889,
+                5.8111,
+                6.9889,
+                5.9361,
+                6.7083,
+                5.9361
+              ],
+              "elements": [
+                "#/readResults/0/lines/61/words/0"
+              ],
+              "text": "Price"
+            },
+            "value": {
+              "boundingBox": null,
+              "elements": null,
+              "text": ""
+            }
+          },
+          {
+            "confidence": 0.5,
+            "key": {
+              "boundingBox": [
+                7.4097,
+                5.825,
+                7.8194,
+                5.825,
+                7.8194,
+                5.9361,
+                7.4097,
+                5.9361
+              ],
+              "elements": [
+                "#/readResults/0/lines/62/words/0"
+              ],
+              "text": "Amount"
+            },
+            "value": {
+              "boundingBox": null,
+              "elements": null,
+              "text": ""
+            }
+          },
+          {
+            "confidence": 0.5,
+            "key": {
+              "boundingBox": [
+                0.9306,
+                8.0028,
+                1.7222,
+                8.0028,
+                1.7222,
+                8.125,
+                0.9306,
+                8.125
+              ],
+              "elements": [
+                "#/readResults/0/lines/67/words/0",
+                "#/readResults/0/lines/67/words/1",
+                "#/readResults/0/lines/67/words/2"
+              ],
+              "text": "Poly Tubing (ft)"
+            },
+            "value": {
+              "boundingBox": null,
+              "elements": null,
+              "text": ""
+            }
+          },
+          {
+            "confidence": 0.36,
+            "key": {
+              "boundingBox": [
+                3.6667,
+                8.8681,
+                4.6083,
+                8.8681,
+                4.6083,
+                8.9889,
+                3.6667,
+                8.9889
+              ],
+              "elements": [
+                "#/readResults/0/lines/72/words/0",
+                "#/readResults/0/lines/72/words/1",
+                "#/readResults/0/lines/72/words/2",
+                "#/readResults/0/lines/72/words/3"
+              ],
+              "text": "paid in advance$ :"
+            },
+            "value": {
+              "boundingBox": [
+                4.6319,
+                8.8681,
+                4.8361,
+                8.8681,
+                4.8361,
+                8.9889,
+                4.6319,
+                8.9889
+              ],
+              "elements": [
+                "#/readResults/0/lines/73/words/0"
+              ],
+              "text": "0.00"
+            }
+          },
+          {
+            "confidence": 0.5,
+            "key": {
+              "boundingBox": [
+                0.3444,
+                9.2333,
+                1.4097,
+                9.2333,
+                1.4097,
+                9.3403,
+                0.3444,
+                9.3403
+              ],
+              "elements": [
+                "#/readResults/0/lines/77/words/0",
+                "#/readResults/0/lines/77/words/1"
+              ],
+              "text": "PAYMENT AMOUNT"
+            },
+            "value": {
+              "boundingBox": null,
+              "elements": null,
+              "text": ""
+            }
+          },
+          {
+            "confidence": 0.5,
+            "key": {
+              "boundingBox": [
+                4.4722,
+                9.2111,
+                4.8889,
+                9.2111,
+                4.8889,
+                9.3403,
+                4.4722,
+                9.3403
+              ],
+              "elements": [
+                "#/readResults/0/lines/80/words/0",
+                "#/readResults/0/lines/80/words/1"
+              ],
+              "text": "Check #"
+            },
+            "value": {
+              "boundingBox": null,
+              "elements": null,
+              "text": ""
+            }
+          },
+          {
+            "confidence": 0.53,
+            "key": {
+              "boundingBox": [
+                5.7153,
+                9.2125,
+                6.3958,
+                9.2125,
+                6.3958,
+                9.3403,
+                5.7153,
+                9.3403
+              ],
+              "elements": [
+                "#/readResults/0/lines/81/words/0",
+                "#/readResults/0/lines/81/words/1"
+              ],
+              "text": "Money Order"
+            },
+            "value": {
+              "boundingBox": [
+                6.9792,
+                9.2333,
+                7.2222,
+                9.2333,
+                7.2222,
+                9.3403,
+                6.9792,
+                9.3403
+              ],
+              "elements": [
+                "#/readResults/0/lines/82/words/0"
+              ],
+              "text": "Totall"
+            }
+          },
+          {
+            "confidence": 0.5,
+            "key": {
+              "boundingBox": [
+                0.3722,
+                9.4958,
+                1.4194,
+                9.4958,
+                1.4194,
+                9.6,
+                0.3722,
+                9.6
+              ],
+              "elements": [
+                "#/readResults/0/lines/83/words/0",
+                "#/readResults/0/lines/83/words/1"
+              ],
+              "text": "Customer's Signature"
+            },
+            "value": {
+              "boundingBox": null,
+              "elements": null,
+              "text": ""
+            }
+          },
+          {
+            "confidence": 0.36,
+            "key": {
+              "boundingBox": [
+                5.5389,
+                9.4653,
+                5.8403,
+                9.4653,
+                5.8403,
+                9.6,
+                5.5389,
+                9.6
+              ],
+              "elements": [
+                "#/readResults/0/lines/84/words/0"
+              ],
+              "text": "date:"
+            },
+            "value": {
+              "boundingBox": [
+                5.9375,
+                9.4694,
+                7.2083,
+                9.4694,
+                7.2083,
+                9.6,
+                5.9375,
+                9.6
+              ],
+              "elements": [
+                "#/readResults/0/lines/85/words/0",
+                "#/readResults/0/lines/85/words/1"
+              ],
+              "text": "!_/_. Due(Total-PIA)"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": [
+                0.3542,
+                9.7056,
+                3.0625,
+                9.7056,
+                3.0625,
+                9.8306,
+                0.3542,
+                9.8306
+              ],
+              "elements": [
+                "#/readResults/0/lines/86/words/0",
+                "#/readResults/0/lines/86/words/1",
+                "#/readResults/0/lines/86/words/2",
+                "#/readResults/0/lines/86/words/3",
+                "#/readResults/0/lines/86/words/4",
+                "#/readResults/0/lines/86/words/5",
+                "#/readResults/0/lines/86/words/6",
+                "#/readResults/0/lines/86/words/7",
+                "#/readResults/0/lines/86/words/8"
+              ],
+              "text": "Does Customer Require A Copy of the WORK ORDER?"
+            },
+            "value": {
+              "boundingBox": [
+                3.75,
+                9.675,
+                3.9694,
+                9.675,
+                3.9694,
+                9.8306,
+                3.75,
+                9.8306
+              ],
+              "elements": [
+                "#/readResults/0/lines/87/words/0"
+              ],
+              "text": "Yes"
+            }
+          },
+          {
+            "confidence": 0.5,
+            "key": {
+              "boundingBox": [
+                0.35,
+                9.9278,
+                1.1667,
+                9.9278,
+                1.1667,
+                10.0528,
+                0.35,
+                10.0528
+              ],
+              "elements": [
+                "#/readResults/0/lines/89/words/0",
+                "#/readResults/0/lines/89/words/1"
+              ],
+              "text": "Service Person's"
+            },
+            "value": {
+              "boundingBox": null,
+              "elements": null,
+              "text": ""
+            }
+          },
+          {
+            "confidence": 0.53,
+            "key": {
+              "boundingBox": [
+                0.3542,
+                10.0694,
+                0.8361,
+                10.0694,
+                0.8361,
+                10.1833,
+                0.3542,
+                10.1833
+              ],
+              "elements": [
+                "#/readResults/0/lines/92/words/0"
+              ],
+              "text": "Signature"
+            },
+            "value": {
+              "boundingBox": [
+                1.4514,
+                9.85,
+                3.9333,
+                9.85,
+                3.9333,
+                10.3472,
+                1.4514,
+                10.3472
+              ],
+              "elements": [
+                "#/readResults/0/lines/94/words/0",
+                "#/readResults/0/lines/94/words/1",
+                "#/readResults/0/lines/94/words/2",
+                "#/readResults/0/lines/94/words/3",
+                "#/readResults/0/lines/94/words/4"
+              ],
+              "text": "R2 - 12- 3 -Pu"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Address__1"
+            },
+            "value": {
+              "boundingBox": [
+                1.0764,
+                1.5278,
+                3.5028,
+                1.5278,
+                3.5028,
+                2.0444,
+                1.0764,
+                2.0444
+              ],
+              "elements": [
+                "#/readResults/0/lines/17/words/0",
+                "#/readResults/0/lines/17/words/1",
+                "#/readResults/0/lines/17/words/2",
+                "#/readResults/0/lines/17/words/3",
+                "#/readResults/0/lines/17/words/4",
+                "#/readResults/0/lines/17/words/5",
+                "#/readResults/0/lines/18/words/0",
+                "#/readResults/0/lines/18/words/1",
+                "#/readResults/0/lines/18/words/2",
+                "#/readResults/0/lines/18/words/3",
+                "#/readResults/0/lines/18/words/4",
+                "#/readResults/0/lines/23/words/0",
+                "#/readResults/0/lines/23/words/1",
+                "#/readResults/0/lines/23/words/2",
+                "#/readResults/0/lines/23/words/3",
+                "#/readResults/0/lines/23/words/4",
+                "#/readResults/0/lines/23/words/5"
+              ],
+              "text": "CUSTOMER SITE NAME, ADDRESS & PHONE GEORGE & ANGELA BUCHANAN 100604834 515 WESTERN BLVD BAYVILLE NJ 08721-3340"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Address__2"
+            },
+            "value": {
+              "boundingBox": [
+                1.5389,
+                0.3681,
+                3.2528,
+                0.3681,
+                3.2528,
+                0.5944,
+                1.5389,
+                0.5944
+              ],
+              "elements": [
+                "#/readResults/0/lines/3/words/0",
+                "#/readResults/0/lines/3/words/1",
+                "#/readResults/0/lines/3/words/2",
+                "#/readResults/0/lines/6/words/0",
+                "#/readResults/0/lines/6/words/1",
+                "#/readResults/0/lines/6/words/2",
+                "#/readResults/0/lines/6/words/3"
+              ],
+              "text": "Windsor NJ 08561 609-448-3232 AmeriGas - Windsor"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__1"
+            },
+            "value": {
+              "boundingBox": [
+                7.6222,
+                0.0111,
+                8.0583,
+                0.0111,
+                8.0583,
+                0.2472,
+                7.6222,
+                0.2472
+              ],
+              "elements": [
+                "#/readResults/0/lines/0/words/0"
+              ],
+              "text": "12/3"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__2"
+            },
+            "value": {
+              "boundingBox": [
+                2.9653,
+                0.1389,
+                5.6917,
+                0.1389,
+                5.6917,
+                0.2944,
+                2.9653,
+                0.2944
+              ],
+              "elements": [
+                "#/readResults/0/lines/1/words/0",
+                "#/readResults/0/lines/1/words/1",
+                "#/readResults/0/lines/1/words/2",
+                "#/readResults/0/lines/1/words/3",
+                "#/readResults/0/lines/1/words/4"
+              ],
+              "text": "Sales & Service Order 4003696039"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__3"
+            },
+            "value": {
+              "boundingBox": [
+                6.1736,
+                0.3361,
+                6.9556,
+                0.3361,
+                6.9556,
+                0.4653,
+                6.1736,
+                0.4653
+              ],
+              "elements": [
+                "#/readResults/0/lines/4/words/0",
+                "#/readResults/0/lines/4/words/1"
+              ],
+              "text": "Sales Order"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__4"
+            },
+            "value": {
+              "boundingBox": [
+                7.4194,
+                0.3125,
+                8.1944,
+                0.3125,
+                8.1944,
+                0.5667,
+                7.4194,
+                0.5667
+              ],
+              "elements": [
+                "#/readResults/0/lines/5/words/0"
+              ],
+              "text": "MUST"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__5"
+            },
+            "value": {
+              "boundingBox": [
+                4.275,
+                2.0861,
+                4.5806,
+                2.0861,
+                4.5806,
+                2.225,
+                4.275,
+                2.225
+              ],
+              "elements": [
+                "#/readResults/0/lines/27/words/0",
+                "#/readResults/0/lines/27/words/1"
+              ],
+              "text": "Grid #:"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__6"
+            },
+            "value": {
+              "boundingBox": [
+                6.4931,
+                5.2,
+                6.5764,
+                5.2,
+                6.5764,
+                5.325,
+                6.4931,
+                5.325
+              ],
+              "elements": [
+                "#/readResults/0/lines/45/words/0"
+              ],
+              "text": "G"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__7"
+            },
+            "value": {
+              "boundingBox": [
+                7.0764,
+                5.2139,
+                7.15,
+                5.2139,
+                7.15,
+                5.325,
+                7.0764,
+                5.325
+              ],
+              "elements": [
+                "#/readResults/0/lines/46/words/0"
+              ],
+              "text": "F"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__8"
+            },
+            "value": {
+              "boundingBox": [
+                7.6556,
+                5.2,
+                7.7222,
+                5.2,
+                7.7222,
+                5.325,
+                7.6556,
+                5.325
+              ],
+              "elements": [
+                "#/readResults/0/lines/47/words/0"
+              ],
+              "text": "E"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__9"
+            },
+            "value": {
+              "boundingBox": [
+                0.3722,
+                5.4111,
+                0.5972,
+                5.4111,
+                0.5972,
+                5.525,
+                0.3722,
+                5.525
+              ],
+              "elements": [
+                "#/readResults/0/lines/48/words/0"
+              ],
+              "text": "Meter"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__10"
+            },
+            "value": {
+              "boundingBox": [
+                2.3444,
+                5.4111,
+                2.5944,
+                5.4111,
+                2.5944,
+                5.525,
+                2.3444,
+                5.525
+              ],
+              "elements": [
+                "#/readResults/0/lines/49/words/0"
+              ],
+              "text": "TANK"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__11"
+            },
+            "value": {
+              "boundingBox": [
+                4.8167,
+                5.4278,
+                5.0556,
+                5.4278,
+                5.0556,
+                5.525,
+                4.8167,
+                5.525
+              ],
+              "elements": [
+                "#/readResults/0/lines/50/words/0"
+              ],
+              "text": "TANK"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__12"
+            },
+            "value": {
+              "boundingBox": [
+                6.4889,
+                5.4069,
+                6.5667,
+                5.4069,
+                6.5667,
+                5.525,
+                6.4889,
+                5.525
+              ],
+              "elements": [
+                "#/readResults/0/lines/51/words/0"
+              ],
+              "text": "H"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__13"
+            },
+            "value": {
+              "boundingBox": [
+                6.9097,
+                5.4139,
+                7.3403,
+                5.4139,
+                7.3403,
+                5.525,
+                6.9097,
+                5.525
+              ],
+              "elements": [
+                "#/readResults/0/lines/52/words/0",
+                "#/readResults/0/lines/52/words/1"
+              ],
+              "text": "Obvious Font"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__14"
+            },
+            "value": {
+              "boundingBox": [
+                7.6528,
+                5.4139,
+                7.725,
+                5.4139,
+                7.725,
+                5.525,
+                7.6528,
+                5.525
+              ],
+              "elements": [
+                "#/readResults/0/lines/53/words/0"
+              ],
+              "text": "D"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__15"
+            },
+            "value": {
+              "boundingBox": [
+                0.3361,
+                5.6097,
+                0.7611,
+                5.6097,
+                0.7611,
+                5.7417,
+                0.3361,
+                5.7417
+              ],
+              "elements": [
+                "#/readResults/0/lines/54/words/0"
+              ],
+              "text": "Reading"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__16"
+            },
+            "value": {
+              "boundingBox": [
+                6.5028,
+                5.6417,
+                6.5694,
+                5.6417,
+                6.5694,
+                5.7417,
+                6.5028,
+                5.7417
+              ],
+              "elements": [
+                "#/readResults/0/lines/57/words/0"
+              ],
+              "text": "A"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__17"
+            },
+            "value": {
+              "boundingBox": [
+                7.0833,
+                5.6417,
+                7.1528,
+                5.6417,
+                7.1528,
+                5.7417,
+                7.0833,
+                5.7417
+              ],
+              "elements": [
+                "#/readResults/0/lines/58/words/0"
+              ],
+              "text": "B"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__18"
+            },
+            "value": {
+              "boundingBox": [
+                6.7361,
+                7.4,
+                7.1736,
+                7.4,
+                7.1736,
+                7.5069,
+                6.7361,
+                7.5069
+              ],
+              "elements": [
+                "#/readResults/0/lines/63/words/0",
+                "#/readResults/0/lines/63/words/1"
+              ],
+              "text": "Sub Tota"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__19"
+            },
+            "value": {
+              "boundingBox": [
+                7.7528,
+                7.4167,
+                7.9611,
+                7.4167,
+                7.9611,
+                7.5069,
+                7.7528,
+                7.5069
+              ],
+              "elements": [
+                "#/readResults/0/lines/64/words/0"
+              ],
+              "text": "0.00"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__20"
+            },
+            "value": {
+              "boundingBox": [
+                3.3083,
+                7.6083,
+                4.125,
+                7.6083,
+                4.125,
+                7.7333,
+                3.3083,
+                7.7333
+              ],
+              "elements": [
+                "#/readResults/0/lines/65/words/0",
+                "#/readResults/0/lines/65/words/1"
+              ],
+              "text": "Additional Items"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__21"
+            },
+            "value": {
+              "boundingBox": [
+                0.9472,
+                7.8264,
+                1.8472,
+                7.8264,
+                1.8472,
+                7.9444,
+                0.9472,
+                7.9444
+              ],
+              "elements": [
+                "#/readResults/0/lines/66/words/0",
+                "#/readResults/0/lines/66/words/1",
+                "#/readResults/0/lines/66/words/2"
+              ],
+              "text": "Copper Tubing (ft)"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__22"
+            },
+            "value": {
+              "boundingBox": [
+                0.9472,
+                8.1875,
+                1.4722,
+                8.1875,
+                1.4722,
+                8.3028,
+                0.9472,
+                8.3028
+              ],
+              "elements": [
+                "#/readResults/0/lines/68/words/0",
+                "#/readResults/0/lines/68/words/1"
+              ],
+              "text": "Labor (hrs)"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__23"
+            },
+            "value": {
+              "boundingBox": [
+                0.9417,
+                8.3639,
+                1.65,
+                8.3639,
+                1.65,
+                8.4694,
+                0.9417,
+                8.4694
+              ],
+              "elements": [
+                "#/readResults/0/lines/69/words/0",
+                "#/readResults/0/lines/69/words/1",
+                "#/readResults/0/lines/69/words/2"
+              ],
+              "text": "Parts & Fittings"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__24"
+            },
+            "value": {
+              "boundingBox": [
+                6.6,
+                8.6639,
+                7.1597,
+                8.6639,
+                7.1597,
+                8.8167,
+                6.6,
+                8.8167
+              ],
+              "elements": [
+                "#/readResults/0/lines/70/words/0"
+              ],
+              "text": "Additional"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__25"
+            },
+            "value": {
+              "boundingBox": [
+                0.8542,
+                8.8861,
+                2.2014,
+                8.8861,
+                2.2014,
+                8.9889,
+                0.8542,
+                8.9889
+              ],
+              "elements": [
+                "#/readResults/0/lines/71/words/0",
+                "#/readResults/0/lines/71/words/1",
+                "#/readResults/0/lines/71/words/2",
+                "#/readResults/0/lines/71/words/3",
+                "#/readResults/0/lines/71/words/4"
+              ],
+              "text": "Gallons in Tank When Set:"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__26"
+            },
+            "value": {
+              "boundingBox": [
+                6.5306,
+                8.8611,
+                7.2472,
+                8.8611,
+                7.2472,
+                8.9889,
+                6.5306,
+                8.9889
+              ],
+              "elements": [
+                "#/readResults/0/lines/74/words/0",
+                "#/readResults/0/lines/74/words/1"
+              ],
+              "text": "Total Charges"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__27"
+            },
+            "value": {
+              "boundingBox": [
+                3.6694,
+                9.0472,
+                4.5208,
+                9.0472,
+                4.5208,
+                9.1667,
+                3.6694,
+                9.1667
+              ],
+              "elements": [
+                "#/readResults/0/lines/75/words/0",
+                "#/readResults/0/lines/75/words/1"
+              ],
+              "text": "Payment Terms:"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__28"
+            },
+            "value": {
+              "boundingBox": [
+                6.9333,
+                9.0347,
+                7.1972,
+                9.0347,
+                7.1972,
+                9.1667,
+                6.9333,
+                9.1667
+              ],
+              "elements": [
+                "#/readResults/0/lines/76/words/0",
+                "#/readResults/0/lines/76/words/1"
+              ],
+              "text": "% Tax"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__29"
+            },
+            "value": {
+              "boundingBox": [
+                2.8722,
+                9.2056,
+                3.1528,
+                9.2056,
+                3.1528,
+                9.3403,
+                2.8722,
+                9.3403
+              ],
+              "elements": [
+                "#/readResults/0/lines/78/words/0"
+              ],
+              "text": "Cash"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__30"
+            },
+            "value": {
+              "boundingBox": [
+                3.375,
+                9.2014,
+                4.1528,
+                9.2014,
+                4.1528,
+                9.3403,
+                3.375,
+                9.3403
+              ],
+              "elements": [
+                "#/readResults/0/lines/79/words/0",
+                "#/readResults/0/lines/79/words/1"
+              ],
+              "text": "Credit Card"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__31"
+            },
+            "value": {
+              "boundingBox": [
+                4.5417,
+                9.7222,
+                4.6694,
+                9.7222,
+                4.6694,
+                9.8306,
+                4.5417,
+                9.8306
+              ],
+              "elements": [
+                "#/readResults/0/lines/88/words/0"
+              ],
+              "text": "No"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__32"
+            },
+            "value": {
+              "boundingBox": [
+                4.3361,
+                9.9306,
+                5.3444,
+                9.9306,
+                5.3444,
+                10.0528,
+                4.3361,
+                10.0528
+              ],
+              "elements": [
+                "#/readResults/0/lines/90/words/0",
+                "#/readResults/0/lines/90/words/1"
+              ],
+              "text": "Manager's Signature"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__33"
+            },
+            "value": {
+              "boundingBox": [
+                7.2222,
+                9.9444,
+                7.4722,
+                9.9444,
+                7.4722,
+                10.0528,
+                7.2222,
+                10.0528
+              ],
+              "elements": [
+                "#/readResults/0/lines/91/words/0"
+              ],
+              "text": "Date"
+            }
+          },
+          {
+            "confidence": 1.0,
+            "key": {
+              "boundingBox": null,
+              "elements": null,
+              "text": "__Tokens__34"
+            },
+            "value": {
+              "boundingBox": [
+                4.3583,
+                10.0806,
+                4.9167,
+                10.0806,
+                4.9167,
+                10.1833,
+                4.3583,
+                10.1833
+              ],
+              "elements": [
+                "#/readResults/0/lines/93/words/0",
+                "#/readResults/0/lines/93/words/1"
+              ],
+              "text": "(if required)"
+            }
+          }
+        ],
+        "page": 1,
+        "tables": []
+      }
+    ],
+    "readResults": [
+      {
+        "angle": 359.63,
+        "height": 11.0,
+        "lines": [
+          {
+            "boundingBox": [
+              7.6222,
+              0.0111,
+              8.0583,
+              0.0111,
+              8.0583,
+              0.2472,
+              7.6222,
+              0.2472
+            ],
+            "text": "12/3",
+            "words": [
+              {
+                "boundingBox": [
+                  7.6222,
+                  0.0111,
+                  8.0583,
+                  0.0111,
+                  8.0583,
+                  0.2472,
+                  7.6222,
+                  0.2472
+                ],
+                "text": "12/3"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              2.9653,
+              0.1389,
+              5.6917,
+              0.1389,
+              5.6917,
+              0.2944,
+              2.9653,
+              0.2944
+            ],
+            "text": "Sales & Service Order 4003696039",
+            "words": [
+              {
+                "boundingBox": [
+                  2.9653,
+                  0.1389,
+                  3.4056,
+                  0.1389,
+                  3.4056,
+                  0.2944,
+                  2.9653,
+                  0.2944
+                ],
+                "text": "Sales"
+              },
+              {
+                "boundingBox": [
+                  3.4444,
+                  0.1389,
+                  3.5444,
+                  0.1389,
+                  3.5444,
+                  0.2944,
+                  3.4444,
+                  0.2944
+                ],
+                "text": "&"
+              },
+              {
+                "boundingBox": [
+                  3.6042,
+                  0.1389,
+                  4.1972,
+                  0.1389,
+                  4.1972,
+                  0.2944,
+                  3.6042,
+                  0.2944
+                ],
+                "text": "Service"
+              },
+              {
+                "boundingBox": [
+                  4.2361,
+                  0.1389,
+                  4.7194,
+                  0.1389,
+                  4.7194,
+                  0.2944,
+                  4.2361,
+                  0.2944
+                ],
+                "text": "Order"
+              },
+              {
+                "boundingBox": [
+                  4.7889,
+                  0.1389,
+                  5.6917,
+                  0.1389,
+                  5.6917,
+                  0.2944,
+                  4.7889,
+                  0.2944
+                ],
+                "text": "4003696039"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.3681,
+              0.2069,
+              2.5667,
+              0.2069,
+              2.5667,
+              0.3472,
+              0.3681,
+              0.3472
+            ],
+            "text": "AmeriGas 80 NORTH MAIN ST.",
+            "words": [
+              {
+                "boundingBox": [
+                  0.3681,
+                  0.1556,
+                  1.4444,
+                  0.1556,
+                  1.4444,
+                  0.3472,
+                  0.3681,
+                  0.3472
+                ],
+                "text": "AmeriGas"
+              },
+              {
+                "boundingBox": [
+                  1.5417,
+                  0.2333,
+                  1.6667,
+                  0.2333,
+                  1.6667,
+                  0.3472,
+                  1.5417,
+                  0.3472
+                ],
+                "text": "80"
+              },
+              {
+                "boundingBox": [
+                  1.6875,
+                  0.2333,
+                  2.0764,
+                  0.2333,
+                  2.0764,
+                  0.3472,
+                  1.6875,
+                  0.3472
+                ],
+                "text": "NORTH"
+              },
+              {
+                "boundingBox": [
+                  2.1139,
+                  0.2333,
+                  2.3917,
+                  0.2333,
+                  2.3917,
+                  0.3472,
+                  2.1139,
+                  0.3472
+                ],
+                "text": "MAIN"
+              },
+              {
+                "boundingBox": [
+                  2.4375,
+                  0.2333,
+                  2.5667,
+                  0.2333,
+                  2.5667,
+                  0.3472,
+                  2.4375,
+                  0.3472
+                ],
+                "text": "ST."
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              1.5389,
+              0.3681,
+              2.4653,
+              0.3681,
+              2.4653,
+              0.4653,
+              1.5389,
+              0.4653
+            ],
+            "text": "Windsor NJ 08561",
+            "words": [
+              {
+                "boundingBox": [
+                  1.5389,
+                  0.3681,
+                  1.9583,
+                  0.3681,
+                  1.9583,
+                  0.4653,
+                  1.5389,
+                  0.4653
+                ],
+                "text": "Windsor"
+              },
+              {
+                "boundingBox": [
+                  1.975,
+                  0.3681,
+                  2.1222,
+                  0.3681,
+                  2.1222,
+                  0.4653,
+                  1.975,
+                  0.4653
+                ],
+                "text": "NJ"
+              },
+              {
+                "boundingBox": [
+                  2.1458,
+                  0.3681,
+                  2.4653,
+                  0.3681,
+                  2.4653,
+                  0.4653,
+                  2.1458,
+                  0.4653
+                ],
+                "text": "08561"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              6.1736,
+              0.3361,
+              6.9556,
+              0.3361,
+              6.9556,
+              0.4653,
+              6.1736,
+              0.4653
+            ],
+            "text": "Sales Order",
+            "words": [
+              {
+                "boundingBox": [
+                  6.1736,
+                  0.3361,
+                  6.5306,
+                  0.3361,
+                  6.5306,
+                  0.4653,
+                  6.1736,
+                  0.4653
+                ],
+                "text": "Sales"
+              },
+              {
+                "boundingBox": [
+                  6.5625,
+                  0.3361,
+                  6.9556,
+                  0.3361,
+                  6.9556,
+                  0.4653,
+                  6.5625,
+                  0.4653
+                ],
+                "text": "Order"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              7.4194,
+              0.3125,
+              8.1944,
+              0.3125,
+              8.1944,
+              0.5667,
+              7.4194,
+              0.5667
+            ],
+            "text": "MUST",
+            "words": [
+              {
+                "boundingBox": [
+                  7.4194,
+                  0.3125,
+                  8.1944,
+                  0.3125,
+                  8.1944,
+                  0.5667,
+                  7.4194,
+                  0.5667
+                ],
+                "text": "MUST"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              1.5389,
+              0.4833,
+              3.2528,
+              0.4833,
+              3.2528,
+              0.5944,
+              1.5389,
+              0.5944
+            ],
+            "text": "609-448-3232 AmeriGas - Windsor",
+            "words": [
+              {
+                "boundingBox": [
+                  1.5389,
+                  0.4833,
+                  2.225,
+                  0.4833,
+                  2.225,
+                  0.5944,
+                  1.5389,
+                  0.5944
+                ],
+                "text": "609-448-3232"
+              },
+              {
+                "boundingBox": [
+                  2.2569,
+                  0.4833,
+                  2.75,
+                  0.4833,
+                  2.75,
+                  0.5944,
+                  2.2569,
+                  0.5944
+                ],
+                "text": "AmeriGas"
+              },
+              {
+                "boundingBox": [
+                  2.775,
+                  0.4833,
+                  2.8264,
+                  0.4833,
+                  2.8264,
+                  0.5944,
+                  2.775,
+                  0.5944
+                ],
+                "text": "-"
+              },
+              {
+                "boundingBox": [
+                  2.8444,
+                  0.4833,
+                  3.2528,
+                  0.4833,
+                  3.2528,
+                  0.5944,
+                  2.8444,
+                  0.5944
+                ],
+                "text": "Windsor"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              6.3222,
+              0.6417,
+              6.5806,
+              0.6417,
+              6.5806,
+              0.7472,
+              6.3222,
+              0.7472
+            ],
+            "text": "PO#:",
+            "words": [
+              {
+                "boundingBox": [
+                  6.3222,
+                  0.6417,
+                  6.5806,
+                  0.6417,
+                  6.5806,
+                  0.7472,
+                  6.3222,
+                  0.7472
+                ],
+                "text": "PO#:"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.3542,
+              0.6694,
+              2.4889,
+              0.6694,
+              2.4889,
+              0.7778,
+              0.3542,
+              0.7778
+            ],
+            "text": "Scheduled Date/Time 12/02/2015 08:00:00",
+            "words": [
+              {
+                "boundingBox": [
+                  0.3542,
+                  0.6694,
+                  0.8722,
+                  0.6694,
+                  0.8722,
+                  0.7778,
+                  0.3542,
+                  0.7778
+                ],
+                "text": "Scheduled"
+              },
+              {
+                "boundingBox": [
+                  0.8958,
+                  0.6694,
+                  1.4097,
+                  0.6694,
+                  1.4097,
+                  0.7778,
+                  0.8958,
+                  0.7778
+                ],
+                "text": "Date/Time"
+              },
+              {
+                "boundingBox": [
+                  1.4833,
+                  0.6694,
+                  2.0306,
+                  0.6694,
+                  2.0306,
+                  0.7778,
+                  1.4833,
+                  0.7778
+                ],
+                "text": "12/02/2015"
+              },
+              {
+                "boundingBox": [
+                  2.0583,
+                  0.6694,
+                  2.4889,
+                  0.6694,
+                  2.4889,
+                  0.7778,
+                  2.0583,
+                  0.7778
+                ],
+                "text": "08:00:00"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              2.6458,
+              0.6694,
+              3.25,
+              0.6694,
+              3.25,
+              0.7778,
+              2.6458,
+              0.7778
+            ],
+            "text": "Order Date:",
+            "words": [
+              {
+                "boundingBox": [
+                  2.6458,
+                  0.6694,
+                  2.9375,
+                  0.6694,
+                  2.9375,
+                  0.7778,
+                  2.6458,
+                  0.7778
+                ],
+                "text": "Order"
+              },
+              {
+                "boundingBox": [
+                  2.9556,
+                  0.6694,
+                  3.25,
+                  0.6694,
+                  3.25,
+                  0.7778,
+                  2.9556,
+                  0.7778
+                ],
+                "text": "Date:"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              3.2667,
+              0.6694,
+              3.8125,
+              0.6694,
+              3.8125,
+              0.7778,
+              3.2667,
+              0.7778
+            ],
+            "text": "12/02/2015",
+            "words": [
+              {
+                "boundingBox": [
+                  3.2667,
+                  0.6694,
+                  3.8125,
+                  0.6694,
+                  3.8125,
+                  0.7778,
+                  3.2667,
+                  0.7778
+                ],
+                "text": "12/02/2015"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              4.4472,
+              0.6694,
+              5.0347,
+              0.6694,
+              5.0347,
+              0.7778,
+              4.4472,
+              0.7778
+            ],
+            "text": "Notification:",
+            "words": [
+              {
+                "boundingBox": [
+                  4.4472,
+                  0.6694,
+                  5.0347,
+                  0.6694,
+                  5.0347,
+                  0.7778,
+                  4.4472,
+                  0.7778
+                ],
+                "text": "Notification:"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              5.0556,
+              0.6694,
+              5.6597,
+              0.6694,
+              5.6597,
+              0.7778,
+              5.0556,
+              0.7778
+            ],
+            "text": "3004155959",
+            "words": [
+              {
+                "boundingBox": [
+                  5.0556,
+                  0.6694,
+                  5.6597,
+                  0.6694,
+                  5.6597,
+                  0.7778,
+                  5.0556,
+                  0.7778
+                ],
+                "text": "3004155959"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              7.6222,
+              0.6181,
+              8.1389,
+              0.6181,
+              8.1389,
+              0.8861,
+              7.6222,
+              0.8861
+            ],
+            "text": "DO !",
+            "words": [
+              {
+                "boundingBox": [
+                  7.6222,
+                  0.6181,
+                  7.9792,
+                  0.6181,
+                  7.9792,
+                  0.8861,
+                  7.6222,
+                  0.8861
+                ],
+                "text": "DO"
+              },
+              {
+                "boundingBox": [
+                  8.0306,
+                  0.6181,
+                  8.1389,
+                  0.6181,
+                  8.1389,
+                  0.8861,
+                  8.0306,
+                  0.8861
+                ],
+                "text": "!"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              4.2389,
+              0.8889,
+              4.7431,
+              0.8889,
+              4.7431,
+              0.9972,
+              4.2389,
+              0.9972
+            ],
+            "text": "NON BOR",
+            "words": [
+              {
+                "boundingBox": [
+                  4.2389,
+                  0.8889,
+                  4.475,
+                  0.8889,
+                  4.475,
+                  0.9972,
+                  4.2389,
+                  0.9972
+                ],
+                "text": "NON"
+              },
+              {
+                "boundingBox": [
+                  4.5208,
+                  0.8889,
+                  4.7431,
+                  0.8889,
+                  4.7431,
+                  0.9972,
+                  4.5208,
+                  0.9972
+                ],
+                "text": "BOR"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              1.7986,
+              0.9167,
+              2.7708,
+              0.9167,
+              2.7708,
+              1.025,
+              1.7986,
+              1.025
+            ],
+            "text": "JOB DESCRIPTION",
+            "words": [
+              {
+                "boundingBox": [
+                  1.7986,
+                  0.9167,
+                  1.9931,
+                  0.9167,
+                  1.9931,
+                  1.025,
+                  1.7986,
+                  1.025
+                ],
+                "text": "JOB"
+              },
+              {
+                "boundingBox": [
+                  2.0278,
+                  0.9167,
+                  2.7708,
+                  0.9167,
+                  2.7708,
+                  1.025,
+                  2.0278,
+                  1.025
+                ],
+                "text": "DESCRIPTION"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              1.3722,
+              1.1458,
+              3.1944,
+              1.1458,
+              3.1944,
+              1.2569,
+              1.3722,
+              1.2569
+            ],
+            "text": "70106 REMOVE TANK--BUCHANAN",
+            "words": [
+              {
+                "boundingBox": [
+                  1.3722,
+                  1.1458,
+                  1.6778,
+                  1.1458,
+                  1.6778,
+                  1.2569,
+                  1.3722,
+                  1.2569
+                ],
+                "text": "70106"
+              },
+              {
+                "boundingBox": [
+                  1.6972,
+                  1.1458,
+                  2.1778,
+                  1.1458,
+                  2.1778,
+                  1.2569,
+                  1.6972,
+                  1.2569
+                ],
+                "text": "REMOVE"
+              },
+              {
+                "boundingBox": [
+                  2.225,
+                  1.1458,
+                  3.1944,
+                  1.1458,
+                  3.1944,
+                  1.2569,
+                  2.225,
+                  1.2569
+                ],
+                "text": "TANK--BUCHANAN"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              1.0944,
+              1.5278,
+              3.5028,
+              1.5278,
+              3.5028,
+              1.6639,
+              1.0944,
+              1.6639
+            ],
+            "text": "CUSTOMER SITE NAME, ADDRESS & PHONE",
+            "words": [
+              {
+                "boundingBox": [
+                  1.0944,
+                  1.5278,
+                  1.725,
+                  1.5278,
+                  1.725,
+                  1.6639,
+                  1.0944,
+                  1.6639
+                ],
+                "text": "CUSTOMER"
+              },
+              {
+                "boundingBox": [
+                  1.7639,
+                  1.5278,
+                  2.0,
+                  1.5278,
+                  2.0,
+                  1.6639,
+                  1.7639,
+                  1.6639
+                ],
+                "text": "SITE"
+              },
+              {
+                "boundingBox": [
+                  2.0278,
+                  1.5278,
+                  2.3889,
+                  1.5278,
+                  2.3889,
+                  1.6639,
+                  2.0278,
+                  1.6639
+                ],
+                "text": "NAME,"
+              },
+              {
+                "boundingBox": [
+                  2.4167,
+                  1.5278,
+                  2.9694,
+                  1.5278,
+                  2.9694,
+                  1.6639,
+                  2.4167,
+                  1.6639
+                ],
+                "text": "ADDRESS"
+              },
+              {
+                "boundingBox": [
+                  2.9972,
+                  1.5278,
+                  3.0583,
+                  1.5278,
+                  3.0583,
+                  1.6639,
+                  2.9972,
+                  1.6639
+                ],
+                "text": "&"
+              },
+              {
+                "boundingBox": [
+                  3.0861,
+                  1.5278,
+                  3.5028,
+                  1.5278,
+                  3.5028,
+                  1.6639,
+                  3.0861,
+                  1.6639
+                ],
+                "text": "PHONE"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              1.1639,
+              1.7292,
+              3.4514,
+              1.7292,
+              3.4514,
+              1.8403,
+              1.1639,
+              1.8403
+            ],
+            "text": "GEORGE & ANGELA BUCHANAN 100604834",
+            "words": [
+              {
+                "boundingBox": [
+                  1.1639,
+                  1.7292,
+                  1.6042,
+                  1.7292,
+                  1.6042,
+                  1.8403,
+                  1.1639,
+                  1.8403
+                ],
+                "text": "GEORGE"
+              },
+              {
+                "boundingBox": [
+                  1.6556,
+                  1.7292,
+                  1.7194,
+                  1.7292,
+                  1.7194,
+                  1.8403,
+                  1.6556,
+                  1.8403
+                ],
+                "text": "&"
+              },
+              {
+                "boundingBox": [
+                  1.7528,
+                  1.7292,
+                  2.1917,
+                  1.7292,
+                  2.1917,
+                  1.8403,
+                  1.7528,
+                  1.8403
+                ],
+                "text": "ANGELA"
+              },
+              {
+                "boundingBox": [
+                  2.2333,
+                  1.7292,
+                  2.8333,
+                  1.7292,
+                  2.8333,
+                  1.8403,
+                  2.2333,
+                  1.8403
+                ],
+                "text": "BUCHANAN"
+              },
+              {
+                "boundingBox": [
+                  2.8917,
+                  1.7292,
+                  3.4514,
+                  1.7292,
+                  3.4514,
+                  1.8403,
+                  2.8917,
+                  1.8403
+                ],
+                "text": "100604834"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              4.2389,
+              1.7181,
+              4.5389,
+              1.7181,
+              4.5389,
+              1.8403,
+              4.2389,
+              1.8403
+            ],
+            "text": "Plant:",
+            "words": [
+              {
+                "boundingBox": [
+                  4.2389,
+                  1.7181,
+                  4.5389,
+                  1.7181,
+                  4.5389,
+                  1.8403,
+                  4.2389,
+                  1.8403
+                ],
+                "text": "Plant:"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              4.5625,
+              1.7181,
+              4.8167,
+              1.7181,
+              4.8167,
+              1.8403,
+              4.5625,
+              1.8403
+            ],
+            "text": "9390",
+            "words": [
+              {
+                "boundingBox": [
+                  4.5625,
+                  1.7181,
+                  4.8167,
+                  1.7181,
+                  4.8167,
+                  1.8403,
+                  4.5625,
+                  1.8403
+                ],
+                "text": "9390"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              6.2194,
+              1.7153,
+              6.7389,
+              1.7153,
+              6.7389,
+              1.8403,
+              6.2194,
+              1.8403
+            ],
+            "text": "Customer:",
+            "words": [
+              {
+                "boundingBox": [
+                  6.2194,
+                  1.7153,
+                  6.7389,
+                  1.7153,
+                  6.7389,
+                  1.8403,
+                  6.2194,
+                  1.8403
+                ],
+                "text": "Customer:"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              6.7639,
+              1.7153,
+              7.2667,
+              1.7153,
+              7.2667,
+              1.8403,
+              6.7639,
+              1.8403
+            ],
+            "text": "TOL_9390",
+            "words": [
+              {
+                "boundingBox": [
+                  6.7639,
+                  1.7153,
+                  7.2667,
+                  1.7153,
+                  7.2667,
+                  1.8403,
+                  6.7639,
+                  1.8403
+                ],
+                "text": "TOL_9390"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              1.0764,
+              1.9278,
+              3.4694,
+              1.9278,
+              3.4694,
+              2.0444,
+              1.0764,
+              2.0444
+            ],
+            "text": "515 WESTERN BLVD BAYVILLE NJ 08721-3340",
+            "words": [
+              {
+                "boundingBox": [
+                  1.0764,
+                  1.9278,
+                  1.2528,
+                  1.9278,
+                  1.2528,
+                  2.0444,
+                  1.0764,
+                  2.0444
+                ],
+                "text": "515"
+              },
+              {
+                "boundingBox": [
+                  1.275,
+                  1.9278,
+                  1.8264,
+                  1.9278,
+                  1.8264,
+                  2.0444,
+                  1.275,
+                  2.0444
+                ],
+                "text": "WESTERN"
+              },
+              {
+                "boundingBox": [
+                  1.8639,
+                  1.9278,
+                  2.1458,
+                  1.9278,
+                  2.1458,
+                  2.0444,
+                  1.8639,
+                  2.0444
+                ],
+                "text": "BLVD"
+              },
+              {
+                "boundingBox": [
+                  2.1833,
+                  1.9278,
+                  2.7111,
+                  1.9278,
+                  2.7111,
+                  2.0444,
+                  2.1833,
+                  2.0444
+                ],
+                "text": "BAYVILLE"
+              },
+              {
+                "boundingBox": [
+                  2.7361,
+                  1.9278,
+                  2.8889,
+                  1.9278,
+                  2.8889,
+                  2.0444,
+                  2.7361,
+                  2.0444
+                ],
+                "text": "NJ"
+              },
+              {
+                "boundingBox": [
+                  2.9097,
+                  1.9278,
+                  3.4694,
+                  1.9278,
+                  3.4694,
+                  2.0444,
+                  2.9097,
+                  2.0444
+                ],
+                "text": "08721-3340"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              4.2472,
+              1.9306,
+              4.8639,
+              1.9306,
+              4.8639,
+              2.0444,
+              4.2472,
+              2.0444
+            ],
+            "text": "Assigned to:",
+            "words": [
+              {
+                "boundingBox": [
+                  4.2472,
+                  1.9306,
+                  4.7083,
+                  1.9306,
+                  4.7083,
+                  2.0444,
+                  4.2472,
+                  2.0444
+                ],
+                "text": "Assigned"
+              },
+              {
+                "boundingBox": [
+                  4.7333,
+                  1.9306,
+                  4.8639,
+                  1.9306,
+                  4.8639,
+                  2.0444,
+                  4.7333,
+                  2.0444
+                ],
+                "text": "to:"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              4.8889,
+              1.9306,
+              6.5,
+              1.9306,
+              6.5,
+              2.0444,
+              4.8889,
+              2.0444
+            ],
+            "text": "9390_999 BORD_T1_DEFAULT",
+            "words": [
+              {
+                "boundingBox": [
+                  4.8889,
+                  1.9306,
+                  5.3889,
+                  1.9306,
+                  5.3889,
+                  2.0444,
+                  4.8889,
+                  2.0444
+                ],
+                "text": "9390_999"
+              },
+              {
+                "boundingBox": [
+                  5.4278,
+                  1.9306,
+                  6.5,
+                  1.9306,
+                  6.5,
+                  2.0444,
+                  5.4278,
+                  2.0444
+                ],
+                "text": "BORD_T1_DEFAULT"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              2.0,
+              2.1278,
+              2.625,
+              2.1278,
+              2.625,
+              2.225,
+              2.0,
+              2.225
+            ],
+            "text": "32-606-0568",
+            "words": [
+              {
+                "boundingBox": [
+                  2.0,
+                  2.1278,
+                  2.625,
+                  2.1278,
+                  2.625,
+                  2.225,
+                  2.0,
+                  2.225
+                ],
+                "text": "32-606-0568"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              4.275,
+              2.0861,
+              4.5806,
+              2.0861,
+              4.5806,
+              2.225,
+              4.275,
+              2.225
+            ],
+            "text": "Grid #:",
+            "words": [
+              {
+                "boundingBox": [
+                  4.275,
+                  2.0861,
+                  4.4514,
+                  2.0861,
+                  4.4514,
+                  2.225,
+                  4.275,
+                  2.225
+                ],
+                "text": "Grid"
+              },
+              {
+                "boundingBox": [
+                  4.4792,
+                  2.0861,
+                  4.5806,
+                  2.0861,
+                  4.5806,
+                  2.225,
+                  4.4792,
+                  2.225
+                ],
+                "text": "#:"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              5.7389,
+              2.1181,
+              6.0167,
+              2.1181,
+              6.0167,
+              2.225,
+              5.7389,
+              2.225
+            ],
+            "text": "Zone:",
+            "words": [
+              {
+                "boundingBox": [
+                  5.7389,
+                  2.1181,
+                  6.0167,
+                  2.1181,
+                  6.0167,
+                  2.225,
+                  5.7389,
+                  2.225
+                ],
+                "text": "Zone:"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              6.0389,
+              2.1181,
+              6.475,
+              2.1181,
+              6.475,
+              2.225,
+              6.0389,
+              2.225
+            ],
+            "text": "VGEZF3",
+            "words": [
+              {
+                "boundingBox": [
+                  6.0389,
+                  2.1181,
+                  6.475,
+                  2.1181,
+                  6.475,
+                  2.225,
+                  6.0389,
+                  2.225
+                ],
+                "text": "VGEZF3"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              3.4,
+              2.3167,
+              4.9611,
+              2.3167,
+              4.9611,
+              2.4514,
+              3.4,
+              2.4514
+            ],
+            "text": "JOB LOCATION (COMMENTS)",
+            "words": [
+              {
+                "boundingBox": [
+                  3.4,
+                  2.3167,
+                  3.6111,
+                  2.3167,
+                  3.6111,
+                  2.4514,
+                  3.4,
+                  2.4514
+                ],
+                "text": "JOB"
+              },
+              {
+                "boundingBox": [
+                  3.6361,
+                  2.3167,
+                  4.2153,
+                  2.3167,
+                  4.2153,
+                  2.4514,
+                  3.6361,
+                  2.4514
+                ],
+                "text": "LOCATION"
+              },
+              {
+                "boundingBox": [
+                  4.2389,
+                  2.3167,
+                  4.9611,
+                  2.3167,
+                  4.9611,
+                  2.4514,
+                  4.2389,
+                  2.4514
+                ],
+                "text": "(COMMENTS)"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.3542,
+              2.525,
+              3.7528,
+              2.525,
+              3.7528,
+              2.6528,
+              0.3542,
+              2.6528
+            ],
+            "text": "REMOVE TANK--BUCHANAN - FILL FROM LEFT SIDE OF HOUSE",
+            "words": [
+              {
+                "boundingBox": [
+                  0.3542,
+                  2.525,
+                  0.8472,
+                  2.525,
+                  0.8472,
+                  2.6528,
+                  0.3542,
+                  2.6528
+                ],
+                "text": "REMOVE"
+              },
+              {
+                "boundingBox": [
+                  0.8778,
+                  2.525,
+                  1.8611,
+                  2.525,
+                  1.8611,
+                  2.6528,
+                  0.8778,
+                  2.6528
+                ],
+                "text": "TANK--BUCHANAN"
+              },
+              {
+                "boundingBox": [
+                  1.8917,
+                  2.525,
+                  1.9417,
+                  2.525,
+                  1.9417,
+                  2.6528,
+                  1.8917,
+                  2.6528
+                ],
+                "text": "-"
+              },
+              {
+                "boundingBox": [
+                  1.9653,
+                  2.525,
+                  2.1875,
+                  2.525,
+                  2.1875,
+                  2.6528,
+                  1.9653,
+                  2.6528
+                ],
+                "text": "FILL"
+              },
+              {
+                "boundingBox": [
+                  2.2111,
+                  2.525,
+                  2.5306,
+                  2.525,
+                  2.5306,
+                  2.6528,
+                  2.2111,
+                  2.6528
+                ],
+                "text": "FROM"
+              },
+              {
+                "boundingBox": [
+                  2.5694,
+                  2.525,
+                  2.8542,
+                  2.525,
+                  2.8542,
+                  2.6528,
+                  2.5694,
+                  2.6528
+                ],
+                "text": "LEFT"
+              },
+              {
+                "boundingBox": [
+                  2.8778,
+                  2.525,
+                  3.1417,
+                  2.525,
+                  3.1417,
+                  2.6528,
+                  2.8778,
+                  2.6528
+                ],
+                "text": "SIDE"
+              },
+              {
+                "boundingBox": [
+                  3.1736,
+                  2.525,
+                  3.3333,
+                  2.525,
+                  3.3333,
+                  2.6528,
+                  3.1736,
+                  2.6528
+                ],
+                "text": "OF"
+              },
+              {
+                "boundingBox": [
+                  3.3542,
+                  2.525,
+                  3.7528,
+                  2.525,
+                  3.7528,
+                  2.6528,
+                  3.3542,
+                  2.6528
+                ],
+                "text": "HOUSE"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              2.9333,
+              2.6875,
+              4.7014,
+              2.6875,
+              4.7014,
+              3.0722,
+              2.9333,
+              3.0722
+            ],
+            "text": "MUST DO.",
+            "words": [
+              {
+                "boundingBox": [
+                  2.9333,
+                  2.6875,
+                  3.9556,
+                  2.6875,
+                  3.9556,
+                  3.0722,
+                  2.9333,
+                  3.0722
+                ],
+                "text": "MUST"
+              },
+              {
+                "boundingBox": [
+                  4.0806,
+                  2.6875,
+                  4.7014,
+                  2.6875,
+                  4.7014,
+                  3.0722,
+                  4.0806,
+                  3.0722
+                ],
+                "text": "DO."
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.35,
+              3.6347,
+              1.25,
+              3.6347,
+              1.25,
+              3.7569,
+              0.35,
+              3.7569
+            ],
+            "text": "Service Performed",
+            "words": [
+              {
+                "boundingBox": [
+                  0.35,
+                  3.6347,
+                  0.7153,
+                  3.6347,
+                  0.7153,
+                  3.7569,
+                  0.35,
+                  3.7569
+                ],
+                "text": "Service"
+              },
+              {
+                "boundingBox": [
+                  0.7389,
+                  3.6347,
+                  1.25,
+                  3.6347,
+                  1.25,
+                  3.7569,
+                  0.7389,
+                  3.7569
+                ],
+                "text": "Performed"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              2.3333,
+              3.6431,
+              2.6222,
+              3.6431,
+              2.6222,
+              3.7569,
+              2.3333,
+              3.7569
+            ],
+            "text": "Date:",
+            "words": [
+              {
+                "boundingBox": [
+                  2.3333,
+                  3.6431,
+                  2.6222,
+                  3.6431,
+                  2.6222,
+                  3.7569,
+                  2.3333,
+                  3.7569
+                ],
+                "text": "Date:"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              3.3222,
+              3.6208,
+              3.6667,
+              3.6208,
+              3.6667,
+              3.7569,
+              3.3222,
+              3.7569
+            ],
+            "text": "Hours:",
+            "words": [
+              {
+                "boundingBox": [
+                  3.3222,
+                  3.6208,
+                  3.6667,
+                  3.6208,
+                  3.6667,
+                  3.7569,
+                  3.3222,
+                  3.7569
+                ],
+                "text": "Hours:"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              3.7111,
+              3.5806,
+              4.9972,
+              3.5806,
+              4.9972,
+              3.7569,
+              3.7111,
+              3.7569
+            ],
+            "text": "4 25 Equipment ID:",
+            "words": [
+              {
+                "boundingBox": [
+                  3.7111,
+                  3.5806,
+                  3.8472,
+                  3.5806,
+                  3.8472,
+                  3.7569,
+                  3.7111,
+                  3.7569
+                ],
+                "text": "4"
+              },
+              {
+                "boundingBox": [
+                  3.8917,
+                  3.5806,
+                  4.2333,
+                  3.5806,
+                  4.2333,
+                  3.7569,
+                  3.8917,
+                  3.7569
+                ],
+                "text": "25"
+              },
+              {
+                "boundingBox": [
+                  4.2944,
+                  3.5806,
+                  4.8167,
+                  3.5806,
+                  4.8167,
+                  3.7569,
+                  4.2944,
+                  3.7569
+                ],
+                "text": "Equipment"
+              },
+              {
+                "boundingBox": [
+                  4.8611,
+                  3.5806,
+                  4.9972,
+                  3.5806,
+                  4.9972,
+                  3.7569,
+                  4.8611,
+                  3.7569
+                ],
+                "text": "ID:"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              5.0417,
+              3.5806,
+              5.6361,
+              3.5806,
+              5.6361,
+              3.7569,
+              5.0417,
+              3.7569
+            ],
+            "text": "5000773665",
+            "words": [
+              {
+                "boundingBox": [
+                  5.0417,
+                  3.5806,
+                  5.6361,
+                  3.5806,
+                  5.6361,
+                  3.7569,
+                  5.0417,
+                  3.7569
+                ],
+                "text": "5000773665"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              6.2292,
+              3.6431,
+              6.8806,
+              3.6431,
+              6.8806,
+              3.7569,
+              6.2292,
+              3.7569
+            ],
+            "text": "Company id:",
+            "words": [
+              {
+                "boundingBox": [
+                  6.2292,
+                  3.6431,
+                  6.6944,
+                  3.6431,
+                  6.6944,
+                  3.7569,
+                  6.2292,
+                  3.7569
+                ],
+                "text": "Company"
+              },
+              {
+                "boundingBox": [
+                  6.7194,
+                  3.6431,
+                  6.8806,
+                  3.6431,
+                  6.8806,
+                  3.7569,
+                  6.7194,
+                  3.7569
+                ],
+                "text": "id:"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              6.8806,
+              3.6431,
+              7.3639,
+              3.6431,
+              7.3639,
+              3.7569,
+              6.8806,
+              3.7569
+            ],
+            "text": "299185831",
+            "words": [
+              {
+                "boundingBox": [
+                  6.8806,
+                  3.6431,
+                  7.3639,
+                  3.6431,
+                  7.3639,
+                  3.7569,
+                  6.8806,
+                  3.7569
+                ],
+                "text": "299185831"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.3542,
+              3.8472,
+              2.0556,
+              3.8472,
+              2.0556,
+              3.9889,
+              0.3542,
+              3.9889
+            ],
+            "text": "0010 Remove Above Tank - Small",
+            "words": [
+              {
+                "boundingBox": [
+                  0.3542,
+                  3.8472,
+                  0.6,
+                  3.8472,
+                  0.6,
+                  3.9889,
+                  0.3542,
+                  3.9889
+                ],
+                "text": "0010"
+              },
+              {
+                "boundingBox": [
+                  0.625,
+                  3.8472,
+                  1.0417,
+                  3.8472,
+                  1.0417,
+                  3.9889,
+                  0.625,
+                  3.9889
+                ],
+                "text": "Remove"
+              },
+              {
+                "boundingBox": [
+                  1.0667,
+                  3.8472,
+                  1.4028,
+                  3.8472,
+                  1.4028,
+                  3.9889,
+                  1.0667,
+                  3.9889
+                ],
+                "text": "Above"
+              },
+              {
+                "boundingBox": [
+                  1.4278,
+                  3.8472,
+                  1.6694,
+                  3.8472,
+                  1.6694,
+                  3.9889,
+                  1.4278,
+                  3.9889
+                ],
+                "text": "Tank"
+              },
+              {
+                "boundingBox": [
+                  1.6944,
+                  3.8472,
+                  1.7528,
+                  3.8472,
+                  1.7528,
+                  3.9889,
+                  1.6944,
+                  3.9889
+                ],
+                "text": "-"
+              },
+              {
+                "boundingBox": [
+                  1.7778,
+                  3.8472,
+                  2.0556,
+                  3.8472,
+                  2.0556,
+                  3.9889,
+                  1.7778,
+                  3.9889
+                ],
+                "text": "Small"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              4.65,
+              3.9556,
+              5.5528,
+              3.9556,
+              5.5528,
+              4.2361,
+              4.65,
+              4.2361
+            ],
+            "text": "TANK",
+            "words": [
+              {
+                "boundingBox": [
+                  4.65,
+                  3.9556,
+                  5.5528,
+                  3.9556,
+                  5.5528,
+                  4.2361,
+                  4.65,
+                  4.2361
+                ],
+                "text": "TANK"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              3.1083,
+              4.3819,
+              4.4889,
+              4.3819,
+              4.4889,
+              4.9278,
+              3.1083,
+              4.9278
+            ],
+            "text": "20 / 0",
+            "words": [
+              {
+                "boundingBox": [
+                  3.1083,
+                  4.3819,
+                  3.7986,
+                  4.3819,
+                  3.7986,
+                  4.9278,
+                  3.1083,
+                  4.9278
+                ],
+                "text": "20"
+              },
+              {
+                "boundingBox": [
+                  4.0167,
+                  4.3819,
+                  4.1972,
+                  4.3819,
+                  4.1972,
+                  4.9278,
+                  4.0167,
+                  4.9278
+                ],
+                "text": "/"
+              },
+              {
+                "boundingBox": [
+                  4.3083,
+                  4.3819,
+                  4.4889,
+                  4.3819,
+                  4.4889,
+                  4.9278,
+                  4.3083,
+                  4.9278
+                ],
+                "text": "0"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.3472,
+              5.1903,
+              0.9972,
+              5.1903,
+              0.9972,
+              5.325,
+              0.3472,
+              5.325
+            ],
+            "text": "CONTRACT:",
+            "words": [
+              {
+                "boundingBox": [
+                  0.3472,
+                  5.1903,
+                  0.9972,
+                  5.1903,
+                  0.9972,
+                  5.325,
+                  0.3472,
+                  5.325
+                ],
+                "text": "CONTRACT:"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              1.0208,
+              5.1903,
+              3.4167,
+              5.1903,
+              3.4167,
+              5.325,
+              1.0208,
+              5.325
+            ],
+            "text": "NO CONTRACT EXISTS Tank Location Code",
+            "words": [
+              {
+                "boundingBox": [
+                  1.0208,
+                  5.1903,
+                  1.1917,
+                  5.1903,
+                  1.1917,
+                  5.325,
+                  1.0208,
+                  5.325
+                ],
+                "text": "NO"
+              },
+              {
+                "boundingBox": [
+                  1.2333,
+                  5.1903,
+                  1.85,
+                  5.1903,
+                  1.85,
+                  5.325,
+                  1.2333,
+                  5.325
+                ],
+                "text": "CONTRACT"
+              },
+              {
+                "boundingBox": [
+                  1.875,
+                  5.1903,
+                  2.2847,
+                  5.1903,
+                  2.2847,
+                  5.325,
+                  1.875,
+                  5.325
+                ],
+                "text": "EXISTS"
+              },
+              {
+                "boundingBox": [
+                  2.4056,
+                  5.1903,
+                  2.6458,
+                  5.1903,
+                  2.6458,
+                  5.325,
+                  2.4056,
+                  5.325
+                ],
+                "text": "Tank"
+              },
+              {
+                "boundingBox": [
+                  2.6694,
+                  5.1903,
+                  3.1042,
+                  5.1903,
+                  3.1042,
+                  5.325,
+                  2.6694,
+                  5.325
+                ],
+                "text": "Location"
+              },
+              {
+                "boundingBox": [
+                  3.1278,
+                  5.1903,
+                  3.4167,
+                  5.1903,
+                  3.4167,
+                  5.325,
+                  3.1278,
+                  5.325
+                ],
+                "text": "Code"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              6.4931,
+              5.2,
+              6.5764,
+              5.2,
+              6.5764,
+              5.325,
+              6.4931,
+              5.325
+            ],
+            "text": "G",
+            "words": [
+              {
+                "boundingBox": [
+                  6.4931,
+                  5.2,
+                  6.5764,
+                  5.2,
+                  6.5764,
+                  5.325,
+                  6.4931,
+                  5.325
+                ],
+                "text": "G"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              7.0764,
+              5.2139,
+              7.15,
+              5.2139,
+              7.15,
+              5.325,
+              7.0764,
+              5.325
+            ],
+            "text": "F",
+            "words": [
+              {
+                "boundingBox": [
+                  7.0764,
+                  5.2139,
+                  7.15,
+                  5.2139,
+                  7.15,
+                  5.325,
+                  7.0764,
+                  5.325
+                ],
+                "text": "F"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              7.6556,
+              5.2,
+              7.7222,
+              5.2,
+              7.7222,
+              5.325,
+              7.6556,
+              5.325
+            ],
+            "text": "E",
+            "words": [
+              {
+                "boundingBox": [
+                  7.6556,
+                  5.2,
+                  7.7222,
+                  5.2,
+                  7.7222,
+                  5.325,
+                  7.6556,
+                  5.325
+                ],
+                "text": "E"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.3722,
+              5.4111,
+              0.5972,
+              5.4111,
+              0.5972,
+              5.525,
+              0.3722,
+              5.525
+            ],
+            "text": "Meter",
+            "words": [
+              {
+                "boundingBox": [
+                  0.3722,
+                  5.4111,
+                  0.5972,
+                  5.4111,
+                  0.5972,
+                  5.525,
+                  0.3722,
+                  5.525
+                ],
+                "text": "Meter"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              2.3444,
+              5.4111,
+              2.5944,
+              5.4111,
+              2.5944,
+              5.525,
+              2.3444,
+              5.525
+            ],
+            "text": "Tank",
+            "words": [
+              {
+                "boundingBox": [
+                  2.3444,
+                  5.4111,
+                  2.5944,
+                  5.4111,
+                  2.5944,
+                  5.525,
+                  2.3444,
+                  5.525
+                ],
+                "text": "Tank"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              4.8167,
+              5.4278,
+              5.0556,
+              5.4278,
+              5.0556,
+              5.525,
+              4.8167,
+              5.525
+            ],
+            "text": "Tank",
+            "words": [
+              {
+                "boundingBox": [
+                  4.8167,
+                  5.4278,
+                  5.0556,
+                  5.4278,
+                  5.0556,
+                  5.525,
+                  4.8167,
+                  5.525
+                ],
+                "text": "Tank"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              6.4889,
+              5.4069,
+              6.5667,
+              5.4069,
+              6.5667,
+              5.525,
+              6.4889,
+              5.525
+            ],
+            "text": "H",
+            "words": [
+              {
+                "boundingBox": [
+                  6.4889,
+                  5.4069,
+                  6.5667,
+                  5.4069,
+                  6.5667,
+                  5.525,
+                  6.4889,
+                  5.525
+                ],
+                "text": "H"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              6.9097,
+              5.4139,
+              7.3403,
+              5.4139,
+              7.3403,
+              5.525,
+              6.9097,
+              5.525
+            ],
+            "text": "Obvious Font",
+            "words": [
+              {
+                "boundingBox": [
+                  6.9097,
+                  5.4139,
+                  7.1556,
+                  5.4139,
+                  7.1556,
+                  5.525,
+                  6.9097,
+                  5.525
+                ],
+                "text": "Obvious"
+              },
+              {
+                "boundingBox": [
+                  7.1778,
+                  5.4139,
+                  7.3403,
+                  5.4139,
+                  7.3403,
+                  5.525,
+                  7.1778,
+                  5.525
+                ],
+                "text": "Font"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              7.6528,
+              5.4139,
+              7.725,
+              5.4139,
+              7.725,
+              5.525,
+              7.6528,
+              5.525
+            ],
+            "text": "D",
+            "words": [
+              {
+                "boundingBox": [
+                  7.6528,
+                  5.4139,
+                  7.725,
+                  5.4139,
+                  7.725,
+                  5.525,
+                  7.6528,
+                  5.525
+                ],
+                "text": "D"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.3361,
+              5.6097,
+              0.7611,
+              5.6097,
+              0.7611,
+              5.7417,
+              0.3361,
+              5.7417
+            ],
+            "text": "Reading",
+            "words": [
+              {
+                "boundingBox": [
+                  0.3361,
+                  5.6097,
+                  0.7611,
+                  5.6097,
+                  0.7611,
+                  5.7417,
+                  0.3361,
+                  5.7417
+                ],
+                "text": "Reading"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              2.3361,
+              5.6264,
+              2.5667,
+              5.6264,
+              2.5667,
+              5.7417,
+              2.3361,
+              5.7417
+            ],
+            "text": "Size",
+            "words": [
+              {
+                "boundingBox": [
+                  2.3361,
+                  5.6264,
+                  2.5667,
+                  5.6264,
+                  2.5667,
+                  5.7417,
+                  2.3361,
+                  5.7417
+                ],
+                "text": "Size"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              4.8028,
+              5.6083,
+              5.2056,
+              5.6083,
+              5.2056,
+              5.7417,
+              4.8028,
+              5.7417
+            ],
+            "text": "Percent",
+            "words": [
+              {
+                "boundingBox": [
+                  4.8028,
+                  5.6083,
+                  5.2056,
+                  5.6083,
+                  5.2056,
+                  5.7417,
+                  4.8028,
+                  5.7417
+                ],
+                "text": "Percent"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              6.5028,
+              5.6417,
+              6.5694,
+              5.6417,
+              6.5694,
+              5.7417,
+              6.5028,
+              5.7417
+            ],
+            "text": "A",
+            "words": [
+              {
+                "boundingBox": [
+                  6.5028,
+                  5.6417,
+                  6.5694,
+                  5.6417,
+                  6.5694,
+                  5.7417,
+                  6.5028,
+                  5.7417
+                ],
+                "text": "A"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              7.0833,
+              5.6417,
+              7.1528,
+              5.6417,
+              7.1528,
+              5.7417,
+              7.0833,
+              5.7417
+            ],
+            "text": "B",
+            "words": [
+              {
+                "boundingBox": [
+                  7.0833,
+                  5.6417,
+                  7.1528,
+                  5.6417,
+                  7.1528,
+                  5.7417,
+                  7.0833,
+                  5.7417
+                ],
+                "text": "B"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.4139,
+              5.8181,
+              0.85,
+              5.8181,
+              0.85,
+              5.9361,
+              0.4139,
+              5.9361
+            ],
+            "text": "Quantity",
+            "words": [
+              {
+                "boundingBox": [
+                  0.4139,
+                  5.8181,
+                  0.85,
+                  5.8181,
+                  0.85,
+                  5.9361,
+                  0.4139,
+                  5.9361
+                ],
+                "text": "Quantity"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              3.1111,
+              5.8167,
+              4.3264,
+              5.8167,
+              4.3264,
+              5.9361,
+              3.1111,
+              5.9361
+            ],
+            "text": "Description / Tran Code",
+            "words": [
+              {
+                "boundingBox": [
+                  3.1111,
+                  5.8167,
+                  3.6597,
+                  5.8167,
+                  3.6597,
+                  5.9361,
+                  3.1111,
+                  5.9361
+                ],
+                "text": "Description"
+              },
+              {
+                "boundingBox": [
+                  3.6875,
+                  5.8167,
+                  3.7472,
+                  5.8167,
+                  3.7472,
+                  5.9361,
+                  3.6875,
+                  5.9361
+                ],
+                "text": "/"
+              },
+              {
+                "boundingBox": [
+                  3.7778,
+                  5.8167,
+                  3.9931,
+                  5.8167,
+                  3.9931,
+                  5.9361,
+                  3.7778,
+                  5.9361
+                ],
+                "text": "Tran"
+              },
+              {
+                "boundingBox": [
+                  4.0208,
+                  5.8167,
+                  4.3264,
+                  5.8167,
+                  4.3264,
+                  5.9361,
+                  4.0208,
+                  5.9361
+                ],
+                "text": "Code"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              6.7083,
+              5.8111,
+              6.9889,
+              5.8111,
+              6.9889,
+              5.9361,
+              6.7083,
+              5.9361
+            ],
+            "text": "Price",
+            "words": [
+              {
+                "boundingBox": [
+                  6.7083,
+                  5.8111,
+                  6.9889,
+                  5.8111,
+                  6.9889,
+                  5.9361,
+                  6.7083,
+                  5.9361
+                ],
+                "text": "Price"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              7.4097,
+              5.825,
+              7.8194,
+              5.825,
+              7.8194,
+              5.9361,
+              7.4097,
+              5.9361
+            ],
+            "text": "Amount",
+            "words": [
+              {
+                "boundingBox": [
+                  7.4097,
+                  5.825,
+                  7.8194,
+                  5.825,
+                  7.8194,
+                  5.9361,
+                  7.4097,
+                  5.9361
+                ],
+                "text": "Amount"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              6.7361,
+              7.4,
+              7.1736,
+              7.4,
+              7.1736,
+              7.5069,
+              6.7361,
+              7.5069
+            ],
+            "text": "Sub Tota",
+            "words": [
+              {
+                "boundingBox": [
+                  6.7361,
+                  7.4,
+                  6.9375,
+                  7.4,
+                  6.9375,
+                  7.5069,
+                  6.7361,
+                  7.5069
+                ],
+                "text": "Sub"
+              },
+              {
+                "boundingBox": [
+                  6.9722,
+                  7.4,
+                  7.1736,
+                  7.4,
+                  7.1736,
+                  7.5069,
+                  6.9722,
+                  7.5069
+                ],
+                "text": "Tota"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              7.7528,
+              7.4167,
+              7.9611,
+              7.4167,
+              7.9611,
+              7.5069,
+              7.7528,
+              7.5069
+            ],
+            "text": "0.00",
+            "words": [
+              {
+                "boundingBox": [
+                  7.7528,
+                  7.4167,
+                  7.9611,
+                  7.4167,
+                  7.9611,
+                  7.5069,
+                  7.7528,
+                  7.5069
+                ],
+                "text": "0.00"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              3.3083,
+              7.6083,
+              4.125,
+              7.6083,
+              4.125,
+              7.7333,
+              3.3083,
+              7.7333
+            ],
+            "text": "Additional Items",
+            "words": [
+              {
+                "boundingBox": [
+                  3.3083,
+                  7.6083,
+                  3.7986,
+                  7.6083,
+                  3.7986,
+                  7.7333,
+                  3.3083,
+                  7.7333
+                ],
+                "text": "Additional"
+              },
+              {
+                "boundingBox": [
+                  3.8222,
+                  7.6083,
+                  4.125,
+                  7.6083,
+                  4.125,
+                  7.7333,
+                  3.8222,
+                  7.7333
+                ],
+                "text": "Items"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.9472,
+              7.8264,
+              1.8472,
+              7.8264,
+              1.8472,
+              7.9444,
+              0.9472,
+              7.9444
+            ],
+            "text": "Copper Tubing (ft)",
+            "words": [
+              {
+                "boundingBox": [
+                  0.9472,
+                  7.8264,
+                  1.3056,
+                  7.8264,
+                  1.3056,
+                  7.9444,
+                  0.9472,
+                  7.9444
+                ],
+                "text": "Copper"
+              },
+              {
+                "boundingBox": [
+                  1.3306,
+                  7.8264,
+                  1.6736,
+                  7.8264,
+                  1.6736,
+                  7.9444,
+                  1.3306,
+                  7.9444
+                ],
+                "text": "Tubing"
+              },
+              {
+                "boundingBox": [
+                  1.6972,
+                  7.8264,
+                  1.8472,
+                  7.8264,
+                  1.8472,
+                  7.9444,
+                  1.6972,
+                  7.9444
+                ],
+                "text": "(ft)"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.9306,
+              8.0028,
+              1.7222,
+              8.0028,
+              1.7222,
+              8.125,
+              0.9306,
+              8.125
+            ],
+            "text": "Poly Tubing (ft)",
+            "words": [
+              {
+                "boundingBox": [
+                  0.9306,
+                  8.0028,
+                  1.1667,
+                  8.0028,
+                  1.1667,
+                  8.125,
+                  0.9306,
+                  8.125
+                ],
+                "text": "Poly"
+              },
+              {
+                "boundingBox": [
+                  1.1917,
+                  8.0028,
+                  1.525,
+                  8.0028,
+                  1.525,
+                  8.125,
+                  1.1917,
+                  8.125
+                ],
+                "text": "Tubing"
+              },
+              {
+                "boundingBox": [
+                  1.5486,
+                  8.0028,
+                  1.7222,
+                  8.0028,
+                  1.7222,
+                  8.125,
+                  1.5486,
+                  8.125
+                ],
+                "text": "(ft)"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.9472,
+              8.1875,
+              1.4722,
+              8.1875,
+              1.4722,
+              8.3028,
+              0.9472,
+              8.3028
+            ],
+            "text": "Labor (hrs)",
+            "words": [
+              {
+                "boundingBox": [
+                  0.9472,
+                  8.1875,
+                  1.2222,
+                  8.1875,
+                  1.2222,
+                  8.3028,
+                  0.9472,
+                  8.3028
+                ],
+                "text": "Labor"
+              },
+              {
+                "boundingBox": [
+                  1.2431,
+                  8.1875,
+                  1.4722,
+                  8.1875,
+                  1.4722,
+                  8.3028,
+                  1.2431,
+                  8.3028
+                ],
+                "text": "(hrs)"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.9417,
+              8.3639,
+              1.65,
+              8.3639,
+              1.65,
+              8.4694,
+              0.9417,
+              8.4694
+            ],
+            "text": "Parts & Fittings",
+            "words": [
+              {
+                "boundingBox": [
+                  0.9417,
+                  8.3639,
+                  1.2083,
+                  8.3639,
+                  1.2083,
+                  8.4694,
+                  0.9417,
+                  8.4694
+                ],
+                "text": "Parts"
+              },
+              {
+                "boundingBox": [
+                  1.2292,
+                  8.3639,
+                  1.2986,
+                  8.3639,
+                  1.2986,
+                  8.4694,
+                  1.2292,
+                  8.4694
+                ],
+                "text": "&"
+              },
+              {
+                "boundingBox": [
+                  1.3333,
+                  8.3639,
+                  1.65,
+                  8.3639,
+                  1.65,
+                  8.4694,
+                  1.3333,
+                  8.4694
+                ],
+                "text": "Fittings"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              6.6,
+              8.6639,
+              7.1597,
+              8.6639,
+              7.1597,
+              8.8167,
+              6.6,
+              8.8167
+            ],
+            "text": "Additional",
+            "words": [
+              {
+                "boundingBox": [
+                  6.6,
+                  8.6639,
+                  7.1597,
+                  8.6639,
+                  7.1597,
+                  8.8167,
+                  6.6,
+                  8.8167
+                ],
+                "text": "Additional"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.8542,
+              8.8861,
+              2.2014,
+              8.8861,
+              2.2014,
+              8.9889,
+              0.8542,
+              8.9889
+            ],
+            "text": "Gallons in Tank When Set:",
+            "words": [
+              {
+                "boundingBox": [
+                  0.8542,
+                  8.8861,
+                  1.2194,
+                  8.8861,
+                  1.2194,
+                  8.9889,
+                  0.8542,
+                  8.9889
+                ],
+                "text": "Gallons"
+              },
+              {
+                "boundingBox": [
+                  1.2361,
+                  8.8861,
+                  1.3361,
+                  8.8861,
+                  1.3361,
+                  8.9889,
+                  1.2361,
+                  8.9889
+                ],
+                "text": "in"
+              },
+              {
+                "boundingBox": [
+                  1.3778,
+                  8.8861,
+                  1.625,
+                  8.8861,
+                  1.625,
+                  8.9889,
+                  1.3778,
+                  8.9889
+                ],
+                "text": "Tank"
+              },
+              {
+                "boundingBox": [
+                  1.6528,
+                  8.8861,
+                  1.9417,
+                  8.8861,
+                  1.9417,
+                  8.9889,
+                  1.6528,
+                  8.9889
+                ],
+                "text": "When"
+              },
+              {
+                "boundingBox": [
+                  1.975,
+                  8.8861,
+                  2.2014,
+                  8.8861,
+                  2.2014,
+                  8.9889,
+                  1.975,
+                  8.9889
+                ],
+                "text": "Set:"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              3.6667,
+              8.8681,
+              4.6083,
+              8.8681,
+              4.6083,
+              8.9889,
+              3.6667,
+              8.9889
+            ],
+            "text": "Paid in Advance$ :",
+            "words": [
+              {
+                "boundingBox": [
+                  3.6667,
+                  8.8681,
+                  3.8917,
+                  8.8681,
+                  3.8917,
+                  8.9889,
+                  3.6667,
+                  8.9889
+                ],
+                "text": "Paid"
+              },
+              {
+                "boundingBox": [
+                  3.9139,
+                  8.8681,
+                  4.0208,
+                  8.8681,
+                  4.0208,
+                  8.9889,
+                  3.9139,
+                  8.9889
+                ],
+                "text": "in"
+              },
+              {
+                "boundingBox": [
+                  4.0417,
+                  8.8681,
+                  4.5417,
+                  8.8681,
+                  4.5417,
+                  8.9889,
+                  4.0417,
+                  8.9889
+                ],
+                "text": "Advance$"
+              },
+              {
+                "boundingBox": [
+                  4.5625,
+                  8.8681,
+                  4.6083,
+                  8.8681,
+                  4.6083,
+                  8.9889,
+                  4.5625,
+                  8.9889
+                ],
+                "text": ":"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              4.6319,
+              8.8681,
+              4.8361,
+              8.8681,
+              4.8361,
+              8.9889,
+              4.6319,
+              8.9889
+            ],
+            "text": "0.00",
+            "words": [
+              {
+                "boundingBox": [
+                  4.6319,
+                  8.8681,
+                  4.8361,
+                  8.8681,
+                  4.8361,
+                  8.9889,
+                  4.6319,
+                  8.9889
+                ],
+                "text": "0.00"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              6.5306,
+              8.8611,
+              7.2472,
+              8.8611,
+              7.2472,
+              8.9889,
+              6.5306,
+              8.9889
+            ],
+            "text": "Total Charges",
+            "words": [
+              {
+                "boundingBox": [
+                  6.5306,
+                  8.8611,
+                  6.775,
+                  8.8611,
+                  6.775,
+                  8.9889,
+                  6.5306,
+                  8.9889
+                ],
+                "text": "Total"
+              },
+              {
+                "boundingBox": [
+                  6.7986,
+                  8.8611,
+                  7.2472,
+                  8.8611,
+                  7.2472,
+                  8.9889,
+                  6.7986,
+                  8.9889
+                ],
+                "text": "Charges"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              3.6694,
+              9.0472,
+              4.5208,
+              9.0472,
+              4.5208,
+              9.1667,
+              3.6694,
+              9.1667
+            ],
+            "text": "Payment Terms:",
+            "words": [
+              {
+                "boundingBox": [
+                  3.6694,
+                  9.0472,
+                  4.1278,
+                  9.0472,
+                  4.1278,
+                  9.1667,
+                  3.6694,
+                  9.1667
+                ],
+                "text": "Payment"
+              },
+              {
+                "boundingBox": [
+                  4.15,
+                  9.0472,
+                  4.5208,
+                  9.0472,
+                  4.5208,
+                  9.1667,
+                  4.15,
+                  9.1667
+                ],
+                "text": "Terms:"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              6.9333,
+              9.0347,
+              7.1972,
+              9.0347,
+              7.1972,
+              9.1667,
+              6.9333,
+              9.1667
+            ],
+            "text": "% Tax",
+            "words": [
+              {
+                "boundingBox": [
+                  6.9333,
+                  9.0347,
+                  6.9792,
+                  9.0347,
+                  6.9792,
+                  9.1667,
+                  6.9333,
+                  9.1667
+                ],
+                "text": "%"
+              },
+              {
+                "boundingBox": [
+                  7.0069,
+                  9.0347,
+                  7.1972,
+                  9.0347,
+                  7.1972,
+                  9.1667,
+                  7.0069,
+                  9.1667
+                ],
+                "text": "Tax"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.3444,
+              9.2333,
+              1.4097,
+              9.2333,
+              1.4097,
+              9.3403,
+              0.3444,
+              9.3403
+            ],
+            "text": "PAYMENT AMOUNT",
+            "words": [
+              {
+                "boundingBox": [
+                  0.3444,
+                  9.2333,
+                  0.8917,
+                  9.2333,
+                  0.8917,
+                  9.3403,
+                  0.3444,
+                  9.3403
+                ],
+                "text": "PAYMENT"
+              },
+              {
+                "boundingBox": [
+                  0.9139,
+                  9.2333,
+                  1.4097,
+                  9.2333,
+                  1.4097,
+                  9.3403,
+                  0.9139,
+                  9.3403
+                ],
+                "text": "AMOUNT"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              2.8722,
+              9.2056,
+              3.1528,
+              9.2056,
+              3.1528,
+              9.3403,
+              2.8722,
+              9.3403
+            ],
+            "text": "Cash",
+            "words": [
+              {
+                "boundingBox": [
+                  2.8722,
+                  9.2056,
+                  3.1528,
+                  9.2056,
+                  3.1528,
+                  9.3403,
+                  2.8722,
+                  9.3403
+                ],
+                "text": "Cash"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              3.375,
+              9.2014,
+              4.1528,
+              9.2014,
+              4.1528,
+              9.3403,
+              3.375,
+              9.3403
+            ],
+            "text": ".Credit Card",
+            "words": [
+              {
+                "boundingBox": [
+                  3.375,
+                  9.2014,
+                  3.8403,
+                  9.2014,
+                  3.8403,
+                  9.3403,
+                  3.375,
+                  9.3403
+                ],
+                "text": ".Credit"
+              },
+              {
+                "boundingBox": [
+                  3.8681,
+                  9.2014,
+                  4.1528,
+                  9.2014,
+                  4.1528,
+                  9.3403,
+                  3.8681,
+                  9.3403
+                ],
+                "text": "Card"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              4.4722,
+              9.2111,
+              4.8889,
+              9.2111,
+              4.8889,
+              9.3403,
+              4.4722,
+              9.3403
+            ],
+            "text": "Check #",
+            "words": [
+              {
+                "boundingBox": [
+                  4.4722,
+                  9.2111,
+                  4.7944,
+                  9.2111,
+                  4.7944,
+                  9.3403,
+                  4.4722,
+                  9.3403
+                ],
+                "text": "Check"
+              },
+              {
+                "boundingBox": [
+                  4.8167,
+                  9.2111,
+                  4.8889,
+                  9.2111,
+                  4.8889,
+                  9.3403,
+                  4.8167,
+                  9.3403
+                ],
+                "text": "#"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              5.7153,
+              9.2125,
+              6.3958,
+              9.2125,
+              6.3958,
+              9.3403,
+              5.7153,
+              9.3403
+            ],
+            "text": "Money Order",
+            "words": [
+              {
+                "boundingBox": [
+                  5.7153,
+                  9.2125,
+                  6.0667,
+                  9.2125,
+                  6.0667,
+                  9.3403,
+                  5.7153,
+                  9.3403
+                ],
+                "text": "Money"
+              },
+              {
+                "boundingBox": [
+                  6.0944,
+                  9.2125,
+                  6.3958,
+                  9.2125,
+                  6.3958,
+                  9.3403,
+                  6.0944,
+                  9.3403
+                ],
+                "text": "Order"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              6.9792,
+              9.2333,
+              7.2222,
+              9.2333,
+              7.2222,
+              9.3403,
+              6.9792,
+              9.3403
+            ],
+            "text": "Totall",
+            "words": [
+              {
+                "boundingBox": [
+                  6.9792,
+                  9.2333,
+                  7.2222,
+                  9.2333,
+                  7.2222,
+                  9.3403,
+                  6.9792,
+                  9.3403
+                ],
+                "text": "Totall"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.3722,
+              9.4958,
+              1.4194,
+              9.4958,
+              1.4194,
+              9.6,
+              0.3722,
+              9.6
+            ],
+            "text": "Customer's Signature",
+            "words": [
+              {
+                "boundingBox": [
+                  0.3722,
+                  9.4958,
+                  0.9167,
+                  9.4958,
+                  0.9167,
+                  9.6,
+                  0.3722,
+                  9.6
+                ],
+                "text": "Customer's"
+              },
+              {
+                "boundingBox": [
+                  0.9375,
+                  9.4958,
+                  1.4194,
+                  9.4958,
+                  1.4194,
+                  9.6,
+                  0.9375,
+                  9.6
+                ],
+                "text": "Signature"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              5.5389,
+              9.4653,
+              5.8403,
+              9.4653,
+              5.8403,
+              9.6,
+              5.5389,
+              9.6
+            ],
+            "text": "Date:",
+            "words": [
+              {
+                "boundingBox": [
+                  5.5389,
+                  9.4653,
+                  5.8403,
+                  9.4653,
+                  5.8403,
+                  9.6,
+                  5.5389,
+                  9.6
+                ],
+                "text": "Date:"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              5.9375,
+              9.4694,
+              7.2083,
+              9.4694,
+              7.2083,
+              9.6,
+              5.9375,
+              9.6
+            ],
+            "text": "!_/_. Due(Total-PIA)",
+            "words": [
+              {
+                "boundingBox": [
+                  5.9375,
+                  9.4653,
+                  6.3611,
+                  9.4653,
+                  6.3611,
+                  9.6,
+                  5.9375,
+                  9.6
+                ],
+                "text": "!_/_."
+              },
+              {
+                "boundingBox": [
+                  6.475,
+                  9.4722,
+                  7.2083,
+                  9.4722,
+                  7.2083,
+                  9.6,
+                  6.475,
+                  9.6
+                ],
+                "text": "Due(Total-PIA)"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.3542,
+              9.7056,
+              3.0625,
+              9.7056,
+              3.0625,
+              9.8306,
+              0.3542,
+              9.8306
+            ],
+            "text": "Does Customer Require A Copy of the WORK ORDER'",
+            "words": [
+              {
+                "boundingBox": [
+                  0.3542,
+                  9.7056,
+                  0.6139,
+                  9.7056,
+                  0.6139,
+                  9.8306,
+                  0.3542,
+                  9.8306
+                ],
+                "text": "Does"
+              },
+              {
+                "boundingBox": [
+                  0.6389,
+                  9.7056,
+                  1.125,
+                  9.7056,
+                  1.125,
+                  9.8306,
+                  0.6389,
+                  9.8306
+                ],
+                "text": "Customer"
+              },
+              {
+                "boundingBox": [
+                  1.1458,
+                  9.7056,
+                  1.5486,
+                  9.7056,
+                  1.5486,
+                  9.8306,
+                  1.1458,
+                  9.8306
+                ],
+                "text": "Require"
+              },
+              {
+                "boundingBox": [
+                  1.5694,
+                  9.7056,
+                  1.6417,
+                  9.7056,
+                  1.6417,
+                  9.8306,
+                  1.5694,
+                  9.8306
+                ],
+                "text": "A"
+              },
+              {
+                "boundingBox": [
+                  1.6778,
+                  9.7056,
+                  1.9444,
+                  9.7056,
+                  1.9444,
+                  9.8306,
+                  1.6778,
+                  9.8306
+                ],
+                "text": "Copy"
+              },
+              {
+                "boundingBox": [
+                  1.9694,
+                  9.7056,
+                  2.0722,
+                  9.7056,
+                  2.0722,
+                  9.8306,
+                  1.9694,
+                  9.8306
+                ],
+                "text": "of"
+              },
+              {
+                "boundingBox": [
+                  2.0944,
+                  9.7056,
+                  2.2569,
+                  9.7056,
+                  2.2569,
+                  9.8306,
+                  2.0944,
+                  9.8306
+                ],
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  2.2778,
+                  9.7056,
+                  2.6181,
+                  9.7056,
+                  2.6181,
+                  9.8306,
+                  2.2778,
+                  9.8306
+                ],
+                "text": "WORK"
+              },
+              {
+                "boundingBox": [
+                  2.6528,
+                  9.7056,
+                  3.0625,
+                  9.7056,
+                  3.0625,
+                  9.8306,
+                  2.6528,
+                  9.8306
+                ],
+                "text": "ORDER'"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              3.75,
+              9.675,
+              3.9694,
+              9.675,
+              3.9694,
+              9.8306,
+              3.75,
+              9.8306
+            ],
+            "text": "Yes",
+            "words": [
+              {
+                "boundingBox": [
+                  3.75,
+                  9.675,
+                  3.9694,
+                  9.675,
+                  3.9694,
+                  9.8306,
+                  3.75,
+                  9.8306
+                ],
+                "text": "Yes"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              4.5417,
+              9.7222,
+              4.6694,
+              9.7222,
+              4.6694,
+              9.8306,
+              4.5417,
+              9.8306
+            ],
+            "text": "No",
+            "words": [
+              {
+                "boundingBox": [
+                  4.5417,
+                  9.7222,
+                  4.6694,
+                  9.7222,
+                  4.6694,
+                  9.8306,
+                  4.5417,
+                  9.8306
+                ],
+                "text": "No"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.35,
+              9.9278,
+              1.1667,
+              9.9278,
+              1.1667,
+              10.0528,
+              0.35,
+              10.0528
+            ],
+            "text": "Service Person's",
+            "words": [
+              {
+                "boundingBox": [
+                  0.35,
+                  9.9278,
+                  0.7222,
+                  9.9278,
+                  0.7222,
+                  10.0528,
+                  0.35,
+                  10.0528
+                ],
+                "text": "Service"
+              },
+              {
+                "boundingBox": [
+                  0.7472,
+                  9.9278,
+                  1.1667,
+                  9.9278,
+                  1.1667,
+                  10.0528,
+                  0.7472,
+                  10.0528
+                ],
+                "text": "Person's"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              4.3361,
+              9.9306,
+              5.3444,
+              9.9306,
+              5.3444,
+              10.0528,
+              4.3361,
+              10.0528
+            ],
+            "text": "Manager's Signature",
+            "words": [
+              {
+                "boundingBox": [
+                  4.3361,
+                  9.9306,
+                  4.8639,
+                  9.9306,
+                  4.8639,
+                  10.0528,
+                  4.3361,
+                  10.0528
+                ],
+                "text": "Manager's"
+              },
+              {
+                "boundingBox": [
+                  4.8889,
+                  9.9306,
+                  5.3444,
+                  9.9306,
+                  5.3444,
+                  10.0528,
+                  4.8889,
+                  10.0528
+                ],
+                "text": "Signature"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              7.2222,
+              9.9444,
+              7.4722,
+              9.9444,
+              7.4722,
+              10.0528,
+              7.2222,
+              10.0528
+            ],
+            "text": "Date",
+            "words": [
+              {
+                "boundingBox": [
+                  7.2222,
+                  9.9444,
+                  7.4722,
+                  9.9444,
+                  7.4722,
+                  10.0528,
+                  7.2222,
+                  10.0528
+                ],
+                "text": "Date"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              0.3542,
+              10.0694,
+              0.8361,
+              10.0694,
+              0.8361,
+              10.1833,
+              0.3542,
+              10.1833
+            ],
+            "text": "Signature",
+            "words": [
+              {
+                "boundingBox": [
+                  0.3542,
+                  10.0694,
+                  0.8361,
+                  10.0694,
+                  0.8361,
+                  10.1833,
+                  0.3542,
+                  10.1833
+                ],
+                "text": "Signature"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              4.3583,
+              10.0806,
+              4.9167,
+              10.0806,
+              4.9167,
+              10.1833,
+              4.3583,
+              10.1833
+            ],
+            "text": "(if required)",
+            "words": [
+              {
+                "boundingBox": [
+                  4.3583,
+                  10.0806,
+                  4.4417,
+                  10.0806,
+                  4.4417,
+                  10.1833,
+                  4.3583,
+                  10.1833
+                ],
+                "text": "(if"
+              },
+              {
+                "boundingBox": [
+                  4.4611,
+                  10.0806,
+                  4.9167,
+                  10.0806,
+                  4.9167,
+                  10.1833,
+                  4.4611,
+                  10.1833
+                ],
+                "text": "required)"
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              1.4514,
+              9.85,
+              3.9333,
+              9.85,
+              3.9333,
+              10.3472,
+              1.4514,
+              10.3472
+            ],
+            "text": "R2 - 12- 3 -Pu",
+            "words": [
+              {
+                "boundingBox": [
+                  1.4514,
+                  9.85,
+                  1.9972,
+                  9.85,
+                  1.9972,
+                  10.3472,
+                  1.4514,
+                  10.3472
+                ],
+                "text": "R2"
+              },
+              {
+                "boundingBox": [
+                  2.0972,
+                  9.85,
+                  2.3028,
+                  9.85,
+                  2.3028,
+                  10.3472,
+                  2.0972,
+                  10.3472
+                ],
+                "text": "-"
+              },
+              {
+                "boundingBox": [
+                  2.4028,
+                  9.85,
+                  2.9139,
+                  9.85,
+                  2.9139,
+                  10.3472,
+                  2.4028,
+                  10.3472
+                ],
+                "text": "12-"
+              },
+              {
+                "boundingBox": [
+                  3.0139,
+                  9.85,
+                  3.1528,
+                  9.85,
+                  3.1528,
+                  10.3472,
+                  3.0139,
+                  10.3472
+                ],
+                "text": "3"
+              },
+              {
+                "boundingBox": [
+                  3.2528,
+                  9.85,
+                  3.9333,
+                  9.85,
+                  3.9333,
+                  10.3472,
+                  3.2528,
+                  10.3472
+                ],
+                "text": "-Pu"
+              }
+            ]
+          }
+        ],
+        "page": 1,
+        "unit": "inch",
+        "width": 8.5
+      }
+    ],
+    "version": "2.0.0"
+  },
+  "createdDateTime": "2020-01-27T18:49:25Z",
+  "lastUpdatedDateTime": "2020-01-27T18:49:41Z",
+  "status": "succeeded"
+}
